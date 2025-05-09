@@ -85,7 +85,7 @@ router.get(
 
 //get all billan programme service gouv
 router.get(
-  "/billan-programme-service-gouv",
+  "/bilan-programme-service-gouv",
   AsyncHandler(async (req, res) => {
     const billanProgrammeServiceGouvData =
       await BillanProgrammeServiceGouv.find({});
