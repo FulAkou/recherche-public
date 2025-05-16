@@ -4,6 +4,7 @@ const cors = require("cors");
 const connectToDB = require("./connect-to-DB/connectToDB");
 const dataSeed = require("./dataSeed");
 const router = require("./routes/allRoutes");
+const routerDonnees = require("./routes/donnees");
 dotenv.config();
 
 const app = express();
@@ -21,6 +22,9 @@ app.use("/api", dataSeed);
 
 // Routes pour les matières premières
 app.use("/api", router);
+
+// Routes pour les données
+app.use("/api", routerDonnees);
 
 app.listen(port, () => {
   console.log(`Server is running on port: localhost:${port}`);

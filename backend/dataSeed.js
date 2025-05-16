@@ -21,6 +21,14 @@ const BillanProgrammeServiceGouv = require("./models/BillanProgrammeServiceGouv"
 const BillanProgrammeServiceGouvData = require("./data/BillanProgrammeServiceGouvData");
 const ListeEtablissementScolaire = require("./models/ListeEtablissementScolaire");
 const ListeEtablissementScolaireData = require("./data/ListeEtablissementScolaireData");
+const EffectifHopitauxIvoirienCI = require("./models/EffectifHopitauxIvoirienCI");
+const EffectifHopitauxIvoirienCIData = require("./data/EffectifHopitauxIvoirienCIData");
+const Covid19Stat = require("./models/Covid19CI");
+const Covid19CIData = require("./data/Covid19CIData");
+const AccidentTravail = require("./models/AccidentTravail");
+const AccidentTravailData = require("./data/AccidentDeTravailData");
+const AccidentDeRoute = require("./models/AccidentDeRoute");
+const AccidentDeRouteData = require("./data/AccidentDeRouteData");
 
 //insert matiere primiere into the database
 router.post(
@@ -170,4 +178,61 @@ router.post(
   })
 );
 
+//insert EffectifHopitauxIvoirien into the database
+router.post(
+  "/effectifHopitauxIvoirien",
+  AsyncHandler(async (req, res) => {
+    await EffectifHopitauxIvoirienCI.deleteMany({});
+    const insertedEffectifHopitauxCI =
+      await EffectifHopitauxIvoirienCI.insertMany(
+        EffectifHopitauxIvoirienCIData
+      );
+    res.status(201).json({
+      message: "Effectif Hopitaux Ivoirien data inserted successfully",
+      data: insertedEffectifHopitauxCI,
+    });
+  })
+);
+
+//insert Covid19Stat into the database
+router.post(
+  "/insertCovid19StatData",
+  AsyncHandler(async (req, res) => {
+    await Covid19Stat.deleteMany({});
+    const insertedCovid19Stat = await Covid19Stat.insertMany(Covid19CIData);
+    res.status(201).json({
+      message: "Covid19Stat data inserted successfully",
+      data: insertedCovid19Stat,
+    });
+  })
+);
+
+//insert AccidentTravail into the database
+router.post(
+  "/insertAccidentTravailData",
+  AsyncHandler(async (req, res) => {
+    await AccidentTravail.deleteMany({});
+    const insertedAccidentTravail = await AccidentTravail.insertMany(
+      AccidentTravailData
+    );
+    res.status(201).json({
+      message: "AccidentTravail data inserted successfully",
+      data: insertedAccidentTravail,
+    });
+  })
+);
+
+router.post(
+  "/insertAccidentDeRoute",
+  AsyncHandler(async (req, res) => {
+    await AccidentDeRoute.deleteMany({});
+    const insertedAccidentRoute = await AccidentDeRoute.insertMany(
+      AccidentDeRouteData
+    );
+    res.status(201).json({
+      message: "AccidentDeRoute data inserted successfully",
+      data: insertedAccidentRoute,
+    });
+  })
+);
 module.exports = router;

@@ -9,6 +9,11 @@ const RepartEleveEnseignantParDrenet = require("../models/RepartEleveEnseignantP
 const MarcheInternet = require("../models/MarcheInternet");
 const Indicateur = require("../models/Indicateur");
 const BillanProgrammeServiceGouv = require("../models/BillanProgrammeServiceGouv");
+const ListeEtablissementScolaire = require("../models/ListeEtablissementScolaire");
+const EffectifHopitauxIvoirienCI = require("../models/EffectifHopitauxIvoirienCI");
+const Covid19CI = require("../models/Covid19CI");
+const AccidentTravail = require("../models/AccidentTravail");
+const AccidentDeRoute = require("../models/AccidentDeRoute");
 
 //get all cacao
 router.get(
@@ -90,6 +95,53 @@ router.get(
     const billanProgrammeServiceGouvData =
       await BillanProgrammeServiceGouv.find({});
     res.status(200).json(billanProgrammeServiceGouvData);
+  })
+);
+
+//get all liste etablissement scolaire
+router.get(
+  "/liste-etablissement-scolaire",
+  AsyncHandler(async (req, res) => {
+    const listeEtablissementScolaireData =
+      await ListeEtablissementScolaire.find({});
+    res.status(200).json(listeEtablissementScolaireData);
+  })
+);
+
+//get all effectif hopitaux
+router.get(
+  "/effectif-hopitaux",
+  AsyncHandler(async (req, res) => {
+    const effectifHopitauxIvoirienData = await EffectifHopitauxIvoirienCI.find(
+      {}
+    );
+    res.status(200).json(effectifHopitauxIvoirienData);
+  })
+);
+
+//get all covid19
+router.get(
+  "/covid19statistiques",
+  AsyncHandler(async (req, res) => {
+    const covid19Data = await Covid19CI.find({});
+    res.status(200).json(covid19Data);
+  })
+);
+
+//get all accident travail
+router.get(
+  "/accident-travail",
+  AsyncHandler(async (req, res) => {
+    const accidentTravailData = await AccidentTravail.find({});
+    res.status(200).json(accidentTravailData);
+  })
+);
+
+router.get(
+  "/accident-de-route",
+  AsyncHandler(async (req, res) => {
+    const accidentDeRouteData = await AccidentDeRoute.find({});
+    res.status(200).json(accidentDeRouteData);
   })
 );
 

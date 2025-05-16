@@ -650,7 +650,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 264.08425,
@@ -659,7 +659,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 286.0538333333,
@@ -668,7 +668,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 276.27725,
@@ -677,7 +677,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 359.9473333333,
@@ -686,7 +686,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 356.9562916667,
@@ -695,7 +695,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 388.0,
@@ -704,7 +704,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 452.0,
@@ -713,7 +713,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 436.0,
@@ -722,7 +722,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 498.7865,
@@ -731,7 +731,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 755.5260833333,
@@ -740,7 +740,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 793.7974166667,
@@ -749,7 +749,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 869.9493333333,
@@ -758,7 +758,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 887.4499166667,
@@ -767,7 +767,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1212.6397708333,
@@ -776,7 +776,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1243.0,
@@ -785,7 +785,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1229.0,
@@ -794,7 +794,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1497.0,
@@ -803,7 +803,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1351.3153333333,
@@ -812,7 +812,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 212.7849166667,
@@ -821,7 +821,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 222.7379166667,
@@ -830,7 +830,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 214.5375833333,
@@ -839,7 +839,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 226.3735,
@@ -848,7 +848,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 345.2368125,
@@ -857,7 +857,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 366.0,
@@ -866,7 +866,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 381.0,
@@ -875,7 +875,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 389.0,
@@ -884,7 +884,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 380.3735,
@@ -893,7 +893,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 291.85425,
@@ -902,7 +902,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 282.9171666667,
@@ -911,7 +911,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 262.3205833333,
@@ -920,7 +920,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 255.6425833333,
@@ -929,7 +929,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 320.996375,
@@ -938,7 +938,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 381.0,
@@ -947,7 +947,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 389.0,
@@ -956,7 +956,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 439.0,
@@ -965,7 +965,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 416.3238333333,
@@ -974,7 +974,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 388.593,
@@ -983,7 +983,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 385.8713333333,
@@ -992,7 +992,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 375.5336666667,
@@ -1001,7 +1001,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 381.1881666667,
@@ -1010,7 +1010,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 438.2596666667,
@@ -1019,7 +1019,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 452.0,
@@ -1028,7 +1028,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 564.0,
@@ -1037,7 +1037,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 594.0,
@@ -1046,7 +1046,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 427.0555,
@@ -1055,7 +1055,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 584.1239166667,
@@ -1064,7 +1064,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 557.26275,
@@ -1073,7 +1073,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 578.2560833333,
@@ -1082,7 +1082,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 659.19025,
@@ -1091,7 +1091,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 623.7224375,
@@ -1100,7 +1100,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 680.0,
@@ -1109,7 +1109,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 797.0,
@@ -1118,7 +1118,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 777.0,
@@ -1127,7 +1127,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 800.4313333333,
@@ -1136,7 +1136,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 861.3411666667,
@@ -1145,7 +1145,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 845.6260833333,
@@ -1154,7 +1154,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 823.09,
@@ -1163,7 +1163,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 986.53425,
@@ -1172,7 +1172,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1026.3995208333,
@@ -1181,7 +1181,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1156.0,
@@ -1190,7 +1190,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1312.0,
@@ -1199,7 +1199,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1337.0,
@@ -1208,7 +1208,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1322.8421666667,
@@ -1217,7 +1217,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1011.5794166667,
@@ -1226,7 +1226,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1080.44275,
@@ -1235,7 +1235,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 978.9458333333,
@@ -1244,7 +1244,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1094.048,
@@ -1253,7 +1253,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1117.7232708333,
@@ -1262,7 +1262,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1102.0,
@@ -1271,7 +1271,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1321.0,
@@ -1280,7 +1280,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1530.0,
@@ -1289,7 +1289,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1644.578,
@@ -1658,7 +1658,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 228.3953636364,
@@ -1667,7 +1667,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 208.7965833333,
@@ -1676,7 +1676,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 236.9599166667,
@@ -1685,7 +1685,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 236.60525,
@@ -1694,7 +1694,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 236.7996666667,
@@ -1703,7 +1703,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 275.9441458333,
@@ -1712,7 +1712,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 281.0,
@@ -1721,7 +1721,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 296.0,
@@ -1730,7 +1730,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 317.0,
@@ -1739,7 +1739,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 324.4426666667,
@@ -1748,7 +1748,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 319.2327272727,
@@ -1757,7 +1757,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 259.16775,
@@ -1766,7 +1766,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 305.10275,
@@ -1775,7 +1775,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 285.7654166667,
@@ -1784,7 +1784,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 260.3609166667,
@@ -1793,7 +1793,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 294.5408958333,
@@ -1802,7 +1802,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 308.0,
@@ -1811,7 +1811,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 306.0,
@@ -1820,7 +1820,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 323.0,
@@ -1829,7 +1829,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 346.3048333333,
@@ -1838,7 +1838,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 817.5249090909,
@@ -1847,7 +1847,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 655.0718333333,
@@ -1856,7 +1856,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 669.4765,
@@ -1865,7 +1865,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 643.9333333333,
@@ -1874,7 +1874,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 603.57625,
@@ -1883,7 +1883,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 691.4662916667,
@@ -1892,7 +1892,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 706.0,
@@ -1901,7 +1901,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 696.0,
@@ -1910,7 +1910,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 797.0,
@@ -1919,7 +1919,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 779.127,
@@ -1946,7 +1946,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 922.954,
@@ -1955,16 +1955,16 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 119.0,
   },
 
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 2984.461,
@@ -1973,9 +1973,9 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 43.0,
   },
 
@@ -2000,7 +2000,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 958.024,
@@ -2009,16 +2009,16 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 110.0,
   },
 
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 3087.528,
@@ -2027,9 +2027,9 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 44.0,
   },
 
@@ -2054,7 +2054,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 994.6307232761,
@@ -2063,16 +2063,16 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 109.0,
   },
 
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 3195.1562781674,
@@ -2081,9 +2081,9 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 49.0,
   },
 
@@ -2108,7 +2108,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 1032.853,
@@ -2117,16 +2117,16 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 108.653697,
   },
 
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 3307.595949,
@@ -2135,9 +2135,9 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 49.03,
   },
 
@@ -2162,7 +2162,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 1077.35879,
@@ -2171,16 +2171,16 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 106.0,
   },
 
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 3543.91045,
@@ -2189,9 +2189,9 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 36.0,
   },
 
@@ -2216,7 +2216,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 1138.0202,
@@ -2225,16 +2225,16 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 111.0,
   },
 
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 3830.73166,
@@ -2243,9 +2243,9 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 37.0,
   },
 
@@ -2270,7 +2270,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 1192.038,
@@ -2279,16 +2279,16 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 116.0,
   },
 
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 4099.03547,
@@ -2297,9 +2297,9 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 40.0,
   },
 
@@ -2324,7 +2324,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 1226.18,
@@ -2333,16 +2333,16 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 137.0,
   },
 
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 4216.43,
@@ -2351,9 +2351,9 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 37.0,
   },
 
@@ -2378,7 +2378,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 1067.0,
@@ -2387,16 +2387,16 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 232.0,
   },
 
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 3398.0,
@@ -2405,9 +2405,9 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 42.0,
   },
 
@@ -2423,7 +2423,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
     statut: "Quantite (1000 X tonne)",
     valeur: 1307.598,
@@ -2432,16 +2432,16 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Charbon de bois",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 140.0,
   },
 
   {
     annee: 2012,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
     statut: "Quantite (1000 X tonne)",
     valeur: 4439.541,
@@ -2450,16 +2450,16 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Bois",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Bois de chauffe",
-    statut: "Prix à la consommation",
+    statut: "Prix à la CONSOMMATION",
     valeur: 38.0,
   },
 
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 127.5025,
@@ -2468,7 +2468,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Pix moyen  (F CFa /m3)",
     valeur: 151354.1505931256,
@@ -2477,7 +2477,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 356.0,
@@ -2486,7 +2486,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 368.953976,
@@ -2495,7 +2495,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 369341.7739967654,
@@ -2504,7 +2504,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 145.855868,
@@ -2513,7 +2513,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 143529.8366261137,
@@ -2522,7 +2522,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 603.0,
@@ -2531,7 +2531,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 426.590024,
@@ -2540,7 +2540,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 375695.9960882723,
@@ -2549,7 +2549,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 173.992,
@@ -2558,7 +2558,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 122540.1167869787,
@@ -2567,7 +2567,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 611.0,
@@ -2576,7 +2576,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 401.627,
@@ -2585,7 +2585,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 393305.2309730172,
@@ -2594,7 +2594,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 111.354,
@@ -2603,7 +2603,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 111141.0456741563,
@@ -2612,7 +2612,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 585.0,
@@ -2621,7 +2621,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 396.477,
@@ -2630,7 +2630,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 374019.1738738943,
@@ -2639,7 +2639,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 137.073778,
@@ -2648,7 +2648,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 121033.0,
@@ -2657,7 +2657,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 631.0,
@@ -2666,7 +2666,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 400.058247,
@@ -2675,7 +2675,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 383862.0,
@@ -2684,7 +2684,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 148.9,
@@ -2693,7 +2693,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 119543.317662861,
@@ -2702,7 +2702,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 670.00499,
@@ -2711,7 +2711,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 390.2,
@@ -2720,7 +2720,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 392362.8908252178,
@@ -2729,7 +2729,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 155.0,
@@ -2738,7 +2738,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 119360.0,
@@ -2747,7 +2747,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 697.4531460712,
@@ -2756,7 +2756,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 270.562203,
@@ -2765,7 +2765,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 365829.8948402224,
@@ -2774,7 +2774,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 142.6369310345,
@@ -2783,7 +2783,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Pix moyen  (F CFa /m3)",
     valeur: 108780.5692608065,
@@ -2792,7 +2792,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 761.7,
@@ -2801,7 +2801,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 263.6493309896,
@@ -2810,7 +2810,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 337978.5491565811,
@@ -2819,7 +2819,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 130.273862069,
@@ -2828,7 +2828,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 98201.1385216131,
@@ -2837,7 +2837,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume transforme",
     statut: "Quantite (1000 Xm3)",
     valeur: 803.8,
@@ -2846,7 +2846,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Quantite (1000 X m3)",
     valeur: 213.648926106,
@@ -2855,7 +2855,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois debite",
     statut: "Prix moyen   (F CFa /m3)",
     valeur: 301451.1699115772,
@@ -2864,7 +2864,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Quantite (1000 Xm3)",
     valeur: 180.6237966,
@@ -2873,7 +2873,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Bois",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Bois de grume",
     statut: "Prix moyen  (F CFa /m3)",
     valeur: 80245.0,
@@ -2972,7 +2972,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 15.946,
@@ -2981,7 +2981,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 299.3063464192,
@@ -2990,7 +2990,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 17.754,
@@ -2999,7 +2999,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 34.093950659,
@@ -3008,7 +3008,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 35.156,
@@ -3017,7 +3017,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 68.1470872682,
@@ -3026,7 +3026,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 132.217,
@@ -3035,7 +3035,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 320.5423054524,
@@ -3044,7 +3044,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 58.27,
@@ -3053,7 +3053,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 66.3218637378,
@@ -3062,7 +3062,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 24.067,
@@ -3071,7 +3071,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 213.5148959156,
@@ -3080,7 +3080,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 53.597,
@@ -3089,7 +3089,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 185.3193275743,
@@ -3098,7 +3098,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.54,
@@ -3107,7 +3107,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 396.2481481481,
@@ -3116,7 +3116,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 68.31,
@@ -3125,7 +3125,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 233.4459815547,
@@ -3134,7 +3134,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 505.291,
@@ -3143,7 +3143,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 193.208616421,
@@ -3152,7 +3152,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 54.784,
@@ -3161,7 +3161,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 251.0,
@@ -3170,7 +3170,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 364.226,
@@ -3179,7 +3179,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 245.876035758,
@@ -3188,7 +3188,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 45.0,
@@ -3197,7 +3197,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 356.0,
@@ -3206,7 +3206,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 109.687,
@@ -3215,7 +3215,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 134.3371593717,
@@ -3224,7 +3224,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 18.0,
@@ -3233,7 +3233,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 524.0,
@@ -3242,7 +3242,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 41.608,
@@ -3251,7 +3251,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 151.1865746972,
@@ -3260,7 +3260,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Quantite (1000 X tonne)",
     valeur: 66.18,
@@ -3269,7 +3269,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide en coque",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 356.3241106719,
@@ -3278,7 +3278,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Quantite (1000 X tonne)",
     valeur: 52.13,
@@ -3287,7 +3287,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "arachide",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "arachide decortiquee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 154.5047747181,
@@ -3566,7 +3566,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 947.858283,
@@ -3575,7 +3575,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1063.0326475482,
@@ -3584,7 +3584,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 255.2,
@@ -3593,7 +3593,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1430.2507836991,
@@ -3602,7 +3602,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 1060.640872,
@@ -3611,7 +3611,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 801.5089286763,
@@ -3620,7 +3620,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 276.451,
@@ -3629,7 +3629,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1073.1160314124,
@@ -3638,7 +3638,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 990.956,
@@ -3647,7 +3647,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 784.9581616136,
@@ -3656,7 +3656,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 315.053,
@@ -3665,7 +3665,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 982.3521756657,
@@ -3674,7 +3674,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 925.129,
@@ -3683,7 +3683,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 803.496593448,
@@ -3692,7 +3692,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 300.889,
@@ -3701,7 +3701,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1062.790597197,
@@ -3710,7 +3710,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 803.886203,
@@ -3719,7 +3719,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 855.2442837373,
@@ -3728,7 +3728,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 307.0,
@@ -3737,7 +3737,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1259.9748514763,
@@ -3746,7 +3746,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 782.9,
@@ -3755,7 +3755,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1008.1747349598,
@@ -3764,7 +3764,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 351.2,
@@ -3773,7 +3773,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1402.0,
@@ -3782,7 +3782,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 917.0,
@@ -3791,7 +3791,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1334.0,
@@ -3800,7 +3800,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 326.822,
@@ -3809,7 +3809,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1627.656593,
@@ -3818,7 +3818,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 790.912,
@@ -3827,7 +3827,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1552.0,
@@ -3836,7 +3836,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 327.096,
@@ -3845,7 +3845,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 2009.0,
@@ -3854,7 +3854,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 1073.282143,
@@ -3863,7 +3863,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1331.297961824,
@@ -3872,7 +3872,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 253.419962,
@@ -3881,7 +3881,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1823.6024665373,
@@ -3890,7 +3890,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Quantite (1000 X tonne)",
     valeur: 1011.631145,
@@ -3899,7 +3899,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao fève",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1171.9111691307,
@@ -3908,7 +3908,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Quantite (1000 X tonne)",
     valeur: 339.085615,
@@ -3917,7 +3917,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cacao",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cacao transforme",
     statut: "Pix moyen  (FCFa/KG)",
     valeur: 1582.0804084066,
@@ -4196,7 +4196,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 121.6,
@@ -4205,7 +4205,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 377.4671052632,
@@ -4214,7 +4214,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 9.036872,
@@ -4223,7 +4223,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 4052.635268708,
@@ -4232,7 +4232,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 146.546191,
@@ -4241,7 +4241,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 335.6177796665,
@@ -4250,7 +4250,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 5.174,
@@ -4259,7 +4259,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 3776.1886354851,
@@ -4268,7 +4268,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 94.668,
@@ -4277,7 +4277,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 387.5438374107,
@@ -4286,7 +4286,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 5.837,
@@ -4295,7 +4295,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 3947.5758094912,
@@ -4304,7 +4304,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 95.219,
@@ -4313,7 +4313,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 608.5130068579,
@@ -4322,7 +4322,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 7.833,
@@ -4331,7 +4331,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 3698.8382484361,
@@ -4340,7 +4340,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 121.033336,
@@ -4349,7 +4349,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 719.0,
@@ -4358,7 +4358,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 9.229126,
@@ -4367,7 +4367,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 3648.7525885983,
@@ -4376,7 +4376,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 69.3,
@@ -4385,7 +4385,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 861.4718614719,
@@ -4394,7 +4394,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 7.7,
@@ -4403,7 +4403,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 4194.8051948052,
@@ -4412,7 +4412,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 85.853113,
@@ -4421,7 +4421,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 738.0,
@@ -4430,7 +4430,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 8.2,
@@ -4439,7 +4439,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 4780.487805,
@@ -4448,7 +4448,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 96.446,
@@ -4457,7 +4457,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 871.0,
@@ -4466,7 +4466,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 7.330733,
@@ -4475,7 +4475,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 4839.1445511463,
@@ -4484,7 +4484,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 32.373996,
@@ -4493,7 +4493,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 714.8941434971,
@@ -4502,7 +4502,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 6.461466,
@@ -4511,7 +4511,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 4897.8012974145,
@@ -4520,7 +4520,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Quantite (1000 X tonne)",
     valeur: 81.973871,
@@ -4529,7 +4529,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe vert",
     statut: "Prix moyen ( F CFa/KG)",
     valeur: 942.9175488492,
@@ -4538,7 +4538,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Quantite (1000 X tonne)",
     valeur: 7.576352,
@@ -4547,7 +4547,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cafe",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cafe soluble",
     statut: "Prix moyen (F CFa/KG)",
     valeur: 4885.0183126391,
@@ -4736,7 +4736,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 84.811,
@@ -4745,7 +4745,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 300.0,
@@ -4754,7 +4754,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 140.636,
@@ -4763,7 +4763,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 256.8616854859,
@@ -4772,7 +4772,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 167.919,
@@ -4781,7 +4781,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 310.0482970956,
@@ -4790,7 +4790,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 210.728,
@@ -4799,7 +4799,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 226.4150943396,
@@ -4808,7 +4808,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 250.545,
@@ -4817,7 +4817,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 194.0,
@@ -4826,7 +4826,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 312.9,
@@ -4835,7 +4835,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 250.0,
@@ -4844,7 +4844,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 341.360139,
@@ -4853,7 +4853,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 240.2788235536,
@@ -4862,7 +4862,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 351.107,
@@ -4871,7 +4871,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 443.0,
@@ -4880,7 +4880,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 279.809911,
@@ -4889,7 +4889,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 459.2957049438,
@@ -4898,7 +4898,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Quantite (1000 X tonne)",
     valeur: 412.328324,
@@ -4907,7 +4907,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cajou",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de Cajou",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 425.6796914829,
@@ -5096,7 +5096,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 132.32,
@@ -5105,7 +5105,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 585.537510126,
@@ -5114,7 +5114,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 141.379,
@@ -5123,7 +5123,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 596.948503568,
@@ -5132,7 +5132,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 158.386,
@@ -5141,7 +5141,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 651.2718346346,
@@ -5150,7 +5150,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 174.873,
@@ -5159,7 +5159,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 930.709651884,
@@ -5168,7 +5168,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 185.477,
@@ -5177,7 +5177,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 779.812199026,
@@ -5186,7 +5186,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 203.465,
@@ -5195,7 +5195,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1096.0,
@@ -5204,7 +5204,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 220.981,
@@ -5213,7 +5213,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 745.0,
@@ -5222,7 +5222,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 240.72,
@@ -5231,7 +5231,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1371.0,
@@ -5240,7 +5240,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 231.15444,
@@ -5249,7 +5249,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 2309.311776143,
@@ -5258,7 +5258,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Quantite (1000 X tonne)",
     valeur: 267.36808,
@@ -5267,7 +5267,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Caoutchouc",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Caoutchouc sec",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1539.1099218351,
@@ -5564,7 +5564,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 15.364397,
@@ -5573,7 +5573,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 137.2145618862,
@@ -5582,7 +5582,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 17.479503,
@@ -5591,7 +5591,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 79.9123578494,
@@ -5600,7 +5600,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 18.689134,
@@ -5609,7 +5609,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 183.3298998766,
@@ -5618,7 +5618,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 13.275506,
@@ -5627,7 +5627,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 86.1749508211,
@@ -5636,7 +5636,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 20.485552,
@@ -5645,7 +5645,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 168.6849729995,
@@ -5654,7 +5654,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 22.830973,
@@ -5663,7 +5663,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 87.3746461441,
@@ -5672,7 +5672,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 19.476166,
@@ -5681,7 +5681,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 108.9743682612,
@@ -5690,7 +5690,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 16.745149,
@@ -5699,7 +5699,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 74.4993728021,
@@ -5708,7 +5708,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 19.210873,
@@ -5717,7 +5717,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 81.5676064279,
@@ -5726,7 +5726,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 18.862608,
@@ -5735,7 +5735,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 81.9049763426,
@@ -5744,7 +5744,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 23.26452,
@@ -5753,7 +5753,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 83.781126702,
@@ -5762,7 +5762,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 17.80952,
@@ -5771,7 +5771,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 90.0,
@@ -5780,7 +5780,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 16.81764,
@@ -5789,7 +5789,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 90.0,
@@ -5798,7 +5798,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 19.660854,
@@ -5807,7 +5807,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 105.0,
@@ -5816,7 +5816,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Noix (1000 x noix)",
     valeur: 21.222,
@@ -5825,7 +5825,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Noix de coco",
     statut: "Equivalent (1000x tonne)",
     valeur: 83.0,
@@ -5834,7 +5834,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 21.221643,
@@ -5843,7 +5843,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 83.0,
@@ -5852,7 +5852,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 23.942101,
@@ -5861,7 +5861,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 105.495945573,
@@ -5870,7 +5870,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Quantite (1000 X tonne)",
     valeur: 26.937163,
@@ -5879,7 +5879,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Coco",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coprah",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 118.9306550953,
@@ -6158,7 +6158,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 144.155,
@@ -6167,7 +6167,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 715.5006763553,
@@ -6176,7 +6176,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 73.157965,
@@ -6185,7 +6185,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 34.5465127276,
@@ -6194,7 +6194,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 105.423,
@@ -6203,7 +6203,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 772.7535736983,
@@ -6212,7 +6212,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 52.131542,
@@ -6221,7 +6221,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 47.0291630929,
@@ -6230,7 +6230,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 129.304,
@@ -6239,7 +6239,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 570.0365031244,
@@ -6248,7 +6248,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 51.417409,
@@ -6257,7 +6257,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 51.378707628,
@@ -6266,7 +6266,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 96.402,
@@ -6275,7 +6275,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 612.6013983112,
@@ -6284,7 +6284,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 52.38937,
@@ -6293,7 +6293,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 62.0643080839,
@@ -6302,7 +6302,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 79.6,
@@ -6311,7 +6311,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 588.0,
@@ -6320,7 +6320,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 34.737995,
@@ -6329,7 +6329,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 47.3729962538,
@@ -6338,7 +6338,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 54.3,
@@ -6347,7 +6347,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 661.0,
@@ -6356,7 +6356,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 45.516396,
@@ -6365,7 +6365,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 82.2678339911,
@@ -6374,7 +6374,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 48.732,
@@ -6383,7 +6383,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 658.3900788882,
@@ -6392,7 +6392,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 8.17242,
@@ -6401,7 +6401,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 94.0833694304,
@@ -6410,7 +6410,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 84.539864,
@@ -6419,7 +6419,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 792.3849625069,
@@ -6428,7 +6428,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 36.132,
@@ -6437,7 +6437,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 94.0,
@@ -6446,7 +6446,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 70.169069,
@@ -6455,7 +6455,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 926.3798461256,
@@ -6464,7 +6464,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 28.135124,
@@ -6473,7 +6473,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 54.3356612539,
@@ -6482,7 +6482,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 115.594063,
@@ -6491,7 +6491,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Coton egrene ou fibre de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 983.7190118233,
@@ -6500,7 +6500,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Quantite (1000 X tonne)",
     valeur: 93.85777,
@@ -6509,7 +6509,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Coton",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de coton",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 51.5076017574,
@@ -6608,7 +6608,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 7.733098,
@@ -6617,7 +6617,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 12.09132,
@@ -6626,7 +6626,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 11.098,
@@ -6635,7 +6635,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 15.374,
@@ -6644,7 +6644,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 16.876768,
@@ -6653,7 +6653,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 12.948845,
@@ -6662,7 +6662,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 13.762723,
@@ -6671,7 +6671,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 12.974,
@@ -6680,7 +6680,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 13.5312717097,
@@ -6689,7 +6689,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Quantite (1000 X tonne)",
     valeur: 14.1130357127,
@@ -6698,7 +6698,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 201.6326480021,
@@ -6707,7 +6707,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 212.7964197457,
@@ -6716,7 +6716,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 254.8206884123,
@@ -6725,7 +6725,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 237.3487706517,
@@ -6734,7 +6734,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 226.7696547704,
@@ -6743,7 +6743,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 237.0,
@@ -6752,7 +6752,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 235.05333741,
@@ -6761,7 +6761,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 289.0,
@@ -6770,7 +6770,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 205.1409836066,
@@ -6779,7 +6779,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Mangue",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Mangue",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 209.0262295082,
@@ -7103,7 +7103,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 78.2,
@@ -7112,7 +7112,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 109.162,
@@ -7121,7 +7121,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 121.985,
@@ -7130,7 +7130,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 108.986,
@@ -7139,7 +7139,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 89.4,
@@ -7148,7 +7148,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 96.1,
@@ -7157,7 +7157,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 99.731561,
@@ -7166,7 +7166,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 69.089,
@@ -7175,7 +7175,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 85.368158,
@@ -7184,7 +7184,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Quantite (1000 X tonne)",
     valeur: 78.368,
@@ -7193,7 +7193,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 383.631713555,
@@ -7202,7 +7202,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 338.9457869955,
@@ -7211,7 +7211,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 295.1182522441,
@@ -7220,7 +7220,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 311.4987246068,
@@ -7229,7 +7229,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 312.4753553203,
@@ -7238,7 +7238,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 505.0,
@@ -7247,7 +7247,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 255.2081444208,
@@ -7256,7 +7256,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 375.0,
@@ -7265,7 +7265,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 549.8703113871,
@@ -7274,7 +7274,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile brute de palme",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 547.3200177013,
@@ -7283,7 +7283,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 74.745665,
@@ -7292,7 +7292,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 87.229093,
@@ -7301,7 +7301,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 85.451075,
@@ -7310,7 +7310,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 14.59815,
@@ -7319,7 +7319,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 24.53184,
@@ -7328,7 +7328,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 22.34388,
@@ -7337,7 +7337,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 34.23418,
@@ -7346,7 +7346,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 19.536269,
@@ -7355,7 +7355,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 4.838358,
@@ -7364,7 +7364,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Quantite (1000 X tonne)",
     valeur: 5.464725,
@@ -7373,7 +7373,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 399.3873892218,
@@ -7382,7 +7382,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 359.7931598349,
@@ -7391,7 +7391,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 344.8447391797,
@@ -7400,7 +7400,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 601.0,
@@ -7409,7 +7409,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 574.0,
@@ -7418,7 +7418,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 765.0,
@@ -7427,7 +7427,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 365.0,
@@ -7436,7 +7436,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 430.7422177828,
@@ -7445,7 +7445,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 327.7630092688,
@@ -7454,7 +7454,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Huile de palme raffinee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 337.2044234614,
@@ -7463,7 +7463,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 137.919502348,
@@ -7472,7 +7472,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 137.1624166667,
@@ -7481,7 +7481,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 127.8545720563,
@@ -7490,7 +7490,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 138.3916885699,
@@ -7499,7 +7499,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 152.3388196289,
@@ -7508,7 +7508,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 198.9250833333,
@@ -7517,7 +7517,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 193.0,
@@ -7526,7 +7526,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 237.0,
@@ -7535,7 +7535,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 221.0,
@@ -7544,7 +7544,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Palme",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Graine de palme traditionnelle",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 218.6421666667,
@@ -7643,7 +7643,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 242.3,
@@ -7652,7 +7652,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 252.423,
@@ -7661,7 +7661,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 234.466,
@@ -7670,7 +7670,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 286.397,
@@ -7679,7 +7679,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 290.8,
@@ -7688,7 +7688,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 264.3,
@@ -7697,7 +7697,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 255.0,
@@ -7706,7 +7706,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 329.052,
@@ -7715,7 +7715,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 310.001166,
@@ -7724,7 +7724,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Quantite (1000 X tonne)",
     valeur: 323.195603,
@@ -7733,7 +7733,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 210.4828724721,
@@ -7742,7 +7742,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 201.581569994,
@@ -7751,7 +7751,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 212.0222121758,
@@ -7760,7 +7760,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 210.9100304822,
@@ -7769,7 +7769,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 208.0,
@@ -7778,7 +7778,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 201.0,
@@ -7787,7 +7787,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 208.0,
@@ -7796,7 +7796,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 203.0,
@@ -7805,7 +7805,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 202.5321406436,
@@ -7814,7 +7814,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Banane douce",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 218.3818450092,
@@ -7823,7 +7823,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 169.0,
@@ -7832,7 +7832,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 172.0,
@@ -7841,7 +7841,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 173.0,
@@ -7850,7 +7850,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 178.0,
@@ -7859,7 +7859,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 180.0,
@@ -7868,7 +7868,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 216.0,
@@ -7877,7 +7877,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 223.0,
@@ -7886,7 +7886,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 238.0,
@@ -7895,7 +7895,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 273.0,
@@ -7904,7 +7904,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Banane douce",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Banane douce",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 258.0,
@@ -7994,7 +7994,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 173.518,
@@ -8003,7 +8003,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 158.736,
@@ -8012,7 +8012,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 132.077,
@@ -8021,7 +8021,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 115.604,
@@ -8030,7 +8030,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 96.79,
@@ -8039,7 +8039,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 69.4,
@@ -8048,7 +8048,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 54.443449,
@@ -8057,7 +8057,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 54.956,
@@ -8066,7 +8066,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 64.11563,
@@ -8075,7 +8075,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Quantite (1000 X tonne)",
     valeur: 65.473,
@@ -8084,7 +8084,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 166.9336898766,
@@ -8093,7 +8093,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 177.8424553976,
@@ -8102,7 +8102,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 188.9276709798,
@@ -8111,7 +8111,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 319.6342687104,
@@ -8120,7 +8120,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 193.0,
@@ -8129,7 +8129,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 190.0,
@@ -8138,7 +8138,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 186.5180141508,
@@ -8147,7 +8147,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 194.0,
@@ -8156,7 +8156,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 199.4639325388,
@@ -8165,7 +8165,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 201.706342796,
@@ -8174,7 +8174,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 1.7,
@@ -8183,7 +8183,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.019645,
@@ -8192,7 +8192,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.002655,
@@ -8201,7 +8201,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.242038,
@@ -8210,7 +8210,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.233304,
@@ -8219,7 +8219,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.20798,
@@ -8228,7 +8228,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.111796,
@@ -8237,7 +8237,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.061,
@@ -8246,7 +8246,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.071166996,
@@ -8255,7 +8255,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 530.0,
@@ -8264,7 +8264,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 518.9189106643,
@@ -8273,7 +8273,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1289.2312617702,
@@ -8282,7 +8282,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 842.9549120386,
@@ -8291,7 +8291,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 838.4167523917,
@@ -8300,7 +8300,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 766.0,
@@ -8309,7 +8309,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 794.0116819922,
@@ -8318,7 +8318,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 648.0,
@@ -8327,7 +8327,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "ananas",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "ananas conserve",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 679.7070924388,
@@ -8336,7 +8336,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 73.0,
@@ -8345,7 +8345,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 74.0,
@@ -8354,7 +8354,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 80.0,
@@ -8363,7 +8363,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 94.0,
@@ -8372,7 +8372,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 106.0,
@@ -8381,7 +8381,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 128.0,
@@ -8390,7 +8390,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 150.0,
@@ -8399,7 +8399,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 185.0,
@@ -8408,7 +8408,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 212.0,
@@ -8417,7 +8417,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "ananas",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "ananas frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 222.0,
@@ -8606,7 +8606,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 8.739592,
@@ -8615,7 +8615,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 14.615615,
@@ -8624,7 +8624,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 13.52,
@@ -8633,7 +8633,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 10.618,
@@ -8642,7 +8642,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 9.93221,
@@ -8651,7 +8651,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 9.3,
@@ -8660,7 +8660,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 9.66,
@@ -8669,7 +8669,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 9.364,
@@ -8678,7 +8678,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 12.333,
@@ -8687,7 +8687,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Quantite (1000 X tonne)",
     valeur: 10.698,
@@ -8696,7 +8696,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 372.2226861391,
@@ -8705,7 +8705,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 625.8385220191,
@@ -8714,7 +8714,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 616.8639053254,
@@ -8723,7 +8723,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 621.5859860614,
@@ -8732,7 +8732,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 633.1772465544,
@@ -8741,7 +8741,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 969.0,
@@ -8750,7 +8750,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 635.0,
@@ -8759,7 +8759,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 635.0,
@@ -8768,7 +8768,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 613.1176161705,
@@ -8777,7 +8777,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cola",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 618.0085632909,
@@ -8786,7 +8786,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1153.0,
@@ -8795,7 +8795,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1070.0,
@@ -8804,7 +8804,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1084.0,
@@ -8813,7 +8813,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1146.0,
@@ -8822,7 +8822,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1324.0,
@@ -8831,7 +8831,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1769.0,
@@ -8840,7 +8840,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1843.0,
@@ -8849,7 +8849,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1985.0,
@@ -8858,7 +8858,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1923.0,
@@ -8867,7 +8867,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Cola",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Cola fraîche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1900.0,
@@ -9668,7 +9668,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.234826,
@@ -9677,7 +9677,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 1047.566,
@@ -9686,7 +9686,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 1531.564,
@@ -9695,7 +9695,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 2679.469,
@@ -9704,7 +9704,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 5295.935,
@@ -9713,7 +9713,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 6382.132,
@@ -9722,7 +9722,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 2010.309,
@@ -9731,7 +9731,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 5356.0176666667,
@@ -9740,7 +9740,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 5984.0715238097,
@@ -9749,7 +9749,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Quantite (1000 X tonne)",
     valeur: 6612.1253809524,
@@ -9758,7 +9758,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 524.6374336743,
@@ -9767,7 +9767,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 337.770133815,
@@ -9776,7 +9776,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 308.7589392281,
@@ -9785,7 +9785,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 290.2402662617,
@@ -9794,7 +9794,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 289.378509555,
@@ -9803,7 +9803,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 290.0,
@@ -9812,7 +9812,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 262.4120097955,
@@ -9821,7 +9821,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 253.0337236604,
@@ -9830,7 +9830,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 240.635746675,
@@ -9839,7 +9839,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Papayes",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 228.2377696896,
@@ -9848,7 +9848,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 16.232,
@@ -9857,7 +9857,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 0.75,
@@ -9866,7 +9866,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 15.0,
@@ -9875,7 +9875,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 13.0,
@@ -9884,7 +9884,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 11.0,
@@ -9893,7 +9893,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 113.0,
@@ -9902,7 +9902,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 79.4226666667,
@@ -9911,7 +9911,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 94.0680952381,
@@ -9920,7 +9920,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Quantite (1000 X tonne)",
     valeur: 108.7135238095,
@@ -9929,7 +9929,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 490.0,
@@ -9938,7 +9938,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 320.0,
@@ -9947,7 +9947,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 48.0,
@@ -9956,7 +9956,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 72.0,
@@ -9965,7 +9965,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 81.0,
@@ -9974,7 +9974,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 136.0,
@@ -9983,7 +9983,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 155.0356043344,
@@ -9992,7 +9992,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 144.712443668,
@@ -10001,7 +10001,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "agrumes de bouche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 134.3892830016,
@@ -10010,7 +10010,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 164.1728333333,
@@ -10019,7 +10019,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 155.637,
@@ -10028,7 +10028,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 155.4794166667,
@@ -10037,7 +10037,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 159.2533333333,
@@ -10046,7 +10046,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 171.2939791667,
@@ -10055,7 +10055,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 185.0,
@@ -10064,7 +10064,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 213.0,
@@ -10073,7 +10073,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 252.0,
@@ -10082,7 +10082,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Orange locale",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 222.7653333333,
@@ -10091,7 +10091,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 326.1965833333,
@@ -10100,7 +10100,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 322.5094166667,
@@ -10109,7 +10109,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 320.7393333333,
@@ -10118,7 +10118,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 400.4976666667,
@@ -10127,7 +10127,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 421.9578541667,
@@ -10136,7 +10136,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 432.0,
@@ -10145,7 +10145,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 447.0,
@@ -10154,7 +10154,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 434.0,
@@ -10163,7 +10163,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Citron",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 566.1033333333,
@@ -10172,7 +10172,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 281.8165833333,
@@ -10181,7 +10181,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 316.8791666667,
@@ -10190,7 +10190,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 333.3885,
@@ -10199,7 +10199,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 358.04225,
@@ -10208,7 +10208,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 368.086875,
@@ -10217,7 +10217,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 340.0,
@@ -10226,7 +10226,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 395.0,
@@ -10235,7 +10235,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 419.0,
@@ -10244,7 +10244,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "Papaye",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 386.0368333333,
@@ -10253,7 +10253,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 281.9345833333,
@@ -10262,7 +10262,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 299.0465,
@@ -10271,7 +10271,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 308.0211666667,
@@ -10280,7 +10280,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 335.723,
@@ -10289,7 +10289,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 434.1021458333,
@@ -10298,7 +10298,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 405.0,
@@ -10307,7 +10307,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 436.0,
@@ -10316,7 +10316,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 451.0,
@@ -10325,7 +10325,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Fruits",
-    categorie: "CONSOMMaTION",
+    categorie: "CONSOMMATION",
     sousCategorie: "avocat",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 468.0433333333,
@@ -10514,7 +10514,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 41.709293,
@@ -10523,7 +10523,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 26.055109,
@@ -10532,7 +10532,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 27.764,
@@ -10541,7 +10541,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 3.707113,
@@ -10550,7 +10550,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 2.255555,
@@ -10559,7 +10559,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 9.460843,
@@ -10568,7 +10568,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 10.63607,
@@ -10577,7 +10577,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 8.339244,
@@ -10586,7 +10586,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 5.16021,
@@ -10595,7 +10595,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Quantite (1000 X tonne)",
     valeur: 16.925433,
@@ -10604,7 +10604,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 305.0,
@@ -10613,7 +10613,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 348.0,
@@ -10622,7 +10622,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 290.0,
@@ -10631,7 +10631,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 347.0,
@@ -10640,7 +10640,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 459.0,
@@ -10649,7 +10649,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 326.0,
@@ -10658,7 +10658,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 346.0,
@@ -10667,7 +10667,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 346.0,
@@ -10676,7 +10676,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 462.0,
@@ -10685,7 +10685,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Sucre",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Sucre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 456.0,
@@ -11144,7 +11144,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 217.375,
@@ -11153,7 +11153,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 318.843,
@@ -11162,7 +11162,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 413.287,
@@ -11171,7 +11171,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 565.883,
@@ -11180,7 +11180,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 613.852,
@@ -11189,7 +11189,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 700.0,
@@ -11198,7 +11198,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 730.133,
@@ -11207,7 +11207,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 881.0,
@@ -11216,7 +11216,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 2344.009,
@@ -11225,7 +11225,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Quantite (1000 X tonne)",
     valeur: 6177.303,
@@ -11234,7 +11234,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 128.0200437033,
@@ -11243,7 +11243,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 249.0434853517,
@@ -11252,7 +11252,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 271.2003668153,
@@ -11261,7 +11261,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 255.4485732917,
@@ -11270,7 +11270,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 205.7888644168,
@@ -11279,7 +11279,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 168.0,
@@ -11288,7 +11288,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 150.2655735325,
@@ -11297,7 +11297,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 320.0,
@@ -11306,7 +11306,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 112.177702816,
@@ -11315,7 +11315,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Igname",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 58.9942492703,
@@ -11324,7 +11324,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 2027.0,
@@ -11333,7 +11333,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 41900.0,
@@ -11342,7 +11342,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 56023.0,
@@ -11351,7 +11351,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 48013.0,
@@ -11360,7 +11360,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 75026.0,
@@ -11369,7 +11369,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 160118.0,
@@ -11378,7 +11378,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 26432.0,
@@ -11387,7 +11387,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 24947.0,
@@ -11396,7 +11396,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Quantite (1000 X tonne)",
     valeur: 36.877,
@@ -11405,7 +11405,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 510.788850518,
@@ -11414,7 +11414,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 185.5721002387,
@@ -11423,7 +11423,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 155.5085054353,
@@ -11432,7 +11432,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 256.5964426301,
@@ -11441,7 +11441,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 205.7892064084,
@@ -11450,7 +11450,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 170.0,
@@ -11459,7 +11459,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 292.495157385,
@@ -11468,7 +11468,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 400.0,
@@ -11477,7 +11477,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "EXPORTaTION",
+    categorie: "EXPORTATION",
     sousCategorie: "Manioc",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 173.0,
@@ -11486,7 +11486,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 137.3385866697,
@@ -11495,7 +11495,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 138.4013333333,
@@ -11504,7 +11504,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 126.7313447494,
@@ -11513,7 +11513,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 150.8520333905,
@@ -11522,7 +11522,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 164.0291378142,
@@ -11531,7 +11531,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 335.1253958333,
@@ -11540,7 +11540,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 318.0,
@@ -11549,7 +11549,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 403.0,
@@ -11558,7 +11558,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 458.0,
@@ -11567,7 +11567,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname precoce "Pkonan"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 387.309,
@@ -11576,7 +11576,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 167.6861148102,
@@ -11585,7 +11585,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 152.5005,
@@ -11594,7 +11594,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 156.5486285946,
@@ -11603,7 +11603,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 151.4984678602,
@@ -11612,7 +11612,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 223.306500374,
@@ -11621,7 +11621,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 360.9075208333,
@@ -11630,7 +11630,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 468.0,
@@ -11639,7 +11639,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 474.0,
@@ -11648,7 +11648,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 476.0,
@@ -11657,7 +11657,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: 'Igname tardive "Klinglè"',
     statut: "Prix moyen (FCFa/KG)",
     valeur: 304.7816666667,
@@ -11666,7 +11666,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 206.5720179478,
@@ -11675,7 +11675,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 166.6715,
@@ -11684,7 +11684,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 174.9476222135,
@@ -11693,7 +11693,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 207.3522824345,
@@ -11702,7 +11702,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 188.7875796557,
@@ -11711,7 +11711,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 221.0718333333,
@@ -11720,7 +11720,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 218.0,
@@ -11729,7 +11729,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 226.0,
@@ -11738,7 +11738,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 228.0,
@@ -11747,7 +11747,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Manioc frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 242.8796666667,
@@ -11756,7 +11756,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 249.6733953351,
@@ -11765,7 +11765,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 231.1486666667,
@@ -11774,7 +11774,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 208.7886792063,
@@ -11783,7 +11783,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 198.5894256668,
@@ -11792,7 +11792,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 301.0616830146,
@@ -11801,7 +11801,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 221.0718333333,
@@ -11810,7 +11810,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 218.0,
@@ -11819,7 +11819,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 226.0,
@@ -11828,7 +11828,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 228.0,
@@ -11837,7 +11837,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Feculents",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Banane plantain",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 298.8561666667,
@@ -12116,7 +12116,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 295.5069090909,
@@ -12125,7 +12125,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 296.1869166667,
@@ -12134,7 +12134,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 302.6871666667,
@@ -12143,7 +12143,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 301.57975,
@@ -12152,7 +12152,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 300.771,
@@ -12161,7 +12161,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 401.6808333333,
@@ -12170,7 +12170,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 410.0,
@@ -12179,7 +12179,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 416.0,
@@ -12188,7 +12188,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 448.0,
@@ -12197,7 +12197,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Riz",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Riz local blanchi",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 452.1448333333,
@@ -12854,7 +12854,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 264.08425,
@@ -12863,7 +12863,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 286.0538333333,
@@ -12872,7 +12872,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 276.27725,
@@ -12881,7 +12881,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 359.9473333333,
@@ -12890,7 +12890,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 356.9562916667,
@@ -12899,7 +12899,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 388.0,
@@ -12908,7 +12908,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 452.0,
@@ -12917,7 +12917,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 436.0,
@@ -12926,7 +12926,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "aubergine",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 498.7865,
@@ -12935,7 +12935,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 755.5260833333,
@@ -12944,7 +12944,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 793.7974166667,
@@ -12953,7 +12953,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 869.9493333333,
@@ -12962,7 +12962,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 887.4499166667,
@@ -12971,7 +12971,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1212.6397708333,
@@ -12980,7 +12980,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1243.0,
@@ -12989,7 +12989,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1229.0,
@@ -12998,7 +12998,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1497.0,
@@ -13007,7 +13007,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Carotte",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1351.3153333333,
@@ -13016,7 +13016,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 212.7849166667,
@@ -13025,7 +13025,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 222.7379166667,
@@ -13034,7 +13034,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 214.5375833333,
@@ -13043,7 +13043,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 226.3735,
@@ -13052,7 +13052,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 345.2368125,
@@ -13061,7 +13061,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 366.0,
@@ -13070,7 +13070,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 381.0,
@@ -13079,7 +13079,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 389.0,
@@ -13088,7 +13088,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Concombre",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 380.3735,
@@ -13097,7 +13097,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 291.85425,
@@ -13106,7 +13106,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 282.9171666667,
@@ -13115,7 +13115,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 262.3205833333,
@@ -13124,7 +13124,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 255.6425833333,
@@ -13133,7 +13133,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 320.996375,
@@ -13142,7 +13142,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 381.0,
@@ -13151,7 +13151,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 389.0,
@@ -13160,7 +13160,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 439.0,
@@ -13169,7 +13169,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Courge",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 416.3238333333,
@@ -13178,7 +13178,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 388.593,
@@ -13187,7 +13187,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 385.8713333333,
@@ -13196,7 +13196,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 375.5336666667,
@@ -13205,7 +13205,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 381.1881666667,
@@ -13214,7 +13214,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 438.2596666667,
@@ -13223,7 +13223,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 452.0,
@@ -13232,7 +13232,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 564.0,
@@ -13241,7 +13241,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 594.0,
@@ -13250,7 +13250,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Chou vert ou pommee",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 427.0555,
@@ -13259,7 +13259,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 584.1239166667,
@@ -13268,7 +13268,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 557.26275,
@@ -13277,7 +13277,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 578.2560833333,
@@ -13286,7 +13286,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 659.19025,
@@ -13295,7 +13295,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 623.7224375,
@@ -13304,7 +13304,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 680.0,
@@ -13313,7 +13313,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 797.0,
@@ -13322,7 +13322,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 777.0,
@@ -13331,7 +13331,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Gombo frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 800.4313333333,
@@ -13340,7 +13340,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 861.3411666667,
@@ -13349,7 +13349,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 845.6260833333,
@@ -13358,7 +13358,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 823.09,
@@ -13367,7 +13367,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 986.53425,
@@ -13376,7 +13376,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1026.3995208333,
@@ -13385,7 +13385,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1156.0,
@@ -13394,7 +13394,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1312.0,
@@ -13403,7 +13403,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1337.0,
@@ -13412,7 +13412,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Haricot vert",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1322.8421666667,
@@ -13421,7 +13421,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1011.5794166667,
@@ -13430,7 +13430,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1080.44275,
@@ -13439,7 +13439,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 978.9458333333,
@@ -13448,7 +13448,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1094.048,
@@ -13457,7 +13457,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1117.7232708333,
@@ -13466,7 +13466,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1102.0,
@@ -13475,7 +13475,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1321.0,
@@ -13484,7 +13484,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1530.0,
@@ -13493,7 +13493,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "Les maraîchères",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Piment frais",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 1644.578,
@@ -13862,7 +13862,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 228.3953636364,
@@ -13871,7 +13871,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 208.7965833333,
@@ -13880,7 +13880,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 236.9599166667,
@@ -13889,7 +13889,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 236.60525,
@@ -13898,7 +13898,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 236.7996666667,
@@ -13907,7 +13907,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 275.9441458333,
@@ -13916,7 +13916,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 281.0,
@@ -13925,7 +13925,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 296.0,
@@ -13934,7 +13934,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 317.0,
@@ -13943,7 +13943,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Maïs seche",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 324.4426666667,
@@ -13952,7 +13952,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 319.2327272727,
@@ -13961,7 +13961,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 259.16775,
@@ -13970,7 +13970,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 305.10275,
@@ -13979,7 +13979,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 285.7654166667,
@@ -13988,7 +13988,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 260.3609166667,
@@ -13997,7 +13997,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 294.5408958333,
@@ -14006,7 +14006,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 308.0,
@@ -14015,7 +14015,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 306.0,
@@ -14024,7 +14024,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 323.0,
@@ -14033,7 +14033,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Mil",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 346.3048333333,
@@ -14042,7 +14042,7 @@ const MatierePrimiereData = [
   {
     annee: 2003,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 817.5249090909,
@@ -14051,7 +14051,7 @@ const MatierePrimiereData = [
   {
     annee: 2004,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 655.0718333333,
@@ -14060,7 +14060,7 @@ const MatierePrimiereData = [
   {
     annee: 2005,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 669.4765,
@@ -14069,7 +14069,7 @@ const MatierePrimiereData = [
   {
     annee: 2006,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 643.9333333333,
@@ -14078,7 +14078,7 @@ const MatierePrimiereData = [
   {
     annee: 2007,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 603.57625,
@@ -14087,7 +14087,7 @@ const MatierePrimiereData = [
   {
     annee: 2008,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 691.4662916667,
@@ -14096,7 +14096,7 @@ const MatierePrimiereData = [
   {
     annee: 2009,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 706.0,
@@ -14105,7 +14105,7 @@ const MatierePrimiereData = [
   {
     annee: 2010,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 696.0,
@@ -14114,7 +14114,7 @@ const MatierePrimiereData = [
   {
     annee: 2011,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 797.0,
@@ -14123,7 +14123,7 @@ const MatierePrimiereData = [
   {
     annee: 2012,
     matiere: "autres Cereales",
-    categorie: "PRIX MOYEN a La CONSOMMaTION",
+    categorie: "PRIX MOYEN a La CONSOMMATION",
     sousCategorie: "Fonio",
     statut: "Prix moyen (FCFa/KG)",
     valeur: 779.127,

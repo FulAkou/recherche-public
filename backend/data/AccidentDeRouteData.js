@@ -1,0 +1,25 @@
+const AccidentDeRouteData = [
+  { Annee: 2000, Categorie: "Accidents de la route", Effectif: 6540 },
+  { Annee: 2001, Categorie: "Accidents de la route", Effectif: 5440 },
+  { Annee: 2002, Categorie: "Accidents de la route", Effectif: 5972 },
+  { Annee: 2003, Categorie: "Accidents de la route", Effectif: 5965 },
+  { Annee: 2004, Categorie: "Accidents de la route", Effectif: 5560 },
+  { Annee: 2005, Categorie: "Accidents de la route", Effectif: 5718 },
+  { Annee: 2006, Categorie: "Accidents de la route", Effectif: 6084 },
+  { Annee: 2007, Categorie: "Accidents de la route", Effectif: 5852 },
+  { Annee: 2008, Categorie: "Accidents de la route", Effectif: 8196 },
+  { Annee: 2009, Categorie: "Accidents de la route", Effectif: 8398 },
+  { Annee: 2010, Categorie: "Accidents de la route", Effectif: 5564 },
+  { Annee: 2011, Categorie: "Accidents de la route", Effectif: 4007 },
+  { Annee: 2012, Categorie: "Accidents de la route", Effectif: 7375 },
+  { Annee: 2013, Categorie: "Accidents de la route", Effectif: 10365 },
+  { Annee: 2014, Categorie: "Accidents de la route", Effectif: 8262 },
+  { Annee: 2015, Categorie: "Accidents de la route", Effectif: 10632 },
+  { Annee: 2016, Categorie: "Accidents de la route", Effectif: 10718 },
+  { Annee: 2017, Categorie: "Accidents de la route", Effectif: 12061 },
+  { Annee: 2018, Categorie: "Accidents de la route", Effectif: 12553 },
+  { Annee: 2019, Categorie: "Accidents de la route", Effectif: 12862 },
+  { Annee: 2020, Categorie: "Accidents de la route", Effectif: 12874 },
+];
+
+module.exports = AccidentDeRouteData;

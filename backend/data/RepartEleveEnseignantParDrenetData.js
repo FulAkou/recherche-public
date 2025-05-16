@@ -10,7 +10,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "MASCULIN",
     effectif: 23046,
@@ -18,7 +18,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "MASCULIN",
     effectif: 21469,
@@ -26,7 +26,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "MASCULIN",
     effectif: 16980,
@@ -34,7 +34,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "MASCULIN",
     effectif: 14796,
@@ -298,7 +298,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "MASCULIN",
     effectif: 22625,
@@ -306,7 +306,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "MASCULIN",
     effectif: 21482,
@@ -314,7 +314,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "MASCULIN",
     effectif: 17547,
@@ -322,7 +322,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "MASCULIN",
     effectif: 15139,
@@ -586,7 +586,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "MASCULIN",
     effectif: 21922,
@@ -594,7 +594,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "MASCULIN",
     effectif: 21712,
@@ -602,7 +602,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "MASCULIN",
     effectif: 15184,
@@ -610,7 +610,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "MASCULIN",
     effectif: 14973,
@@ -874,7 +874,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "MASCULIN",
     effectif: 23319,
@@ -882,7 +882,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "MASCULIN",
     effectif: 36924,
@@ -890,7 +890,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "MASCULIN",
     effectif: 68888,
@@ -898,7 +898,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "MASCULIN",
     effectif: 62711,
@@ -1162,7 +1162,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "MASCULIN",
     effectif: 29308,
@@ -1170,7 +1170,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "MASCULIN",
     effectif: 37320,
@@ -1178,7 +1178,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "MASCULIN",
     effectif: 72784,
@@ -1186,7 +1186,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "MASCULIN",
     effectif: 68897,
@@ -1450,7 +1450,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "MASCULIN",
     effectif: 30529,
@@ -1458,7 +1458,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "MASCULIN",
     effectif: 39862,
@@ -1466,7 +1466,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "MASCULIN",
     effectif: 75932,
@@ -1474,7 +1474,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "MASCULIN",
     effectif: 73136,
@@ -1738,7 +1738,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "FEMININ",
     effectif: 24532,
@@ -1746,7 +1746,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "FEMININ",
     effectif: 23287,
@@ -1754,7 +1754,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "FEMININ",
     effectif: 20554,
@@ -1762,7 +1762,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "FEMININ",
     effectif: 15068,
@@ -2026,7 +2026,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "FEMININ",
     effectif: 25238,
@@ -2034,7 +2034,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "FEMININ",
     effectif: 23519,
@@ -2042,7 +2042,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "FEMININ",
     effectif: 19278,
@@ -2050,7 +2050,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "FEMININ",
     effectif: 15755,
@@ -2314,7 +2314,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "FEMININ",
     effectif: 25820,
@@ -2322,7 +2322,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "FEMININ",
     effectif: 24321,
@@ -2330,7 +2330,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "FEMININ",
     effectif: 19369,
@@ -2338,7 +2338,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PUBLIC",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "FEMININ",
     effectif: 16179,
@@ -2602,7 +2602,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "FEMININ",
     effectif: 24881,
@@ -2610,7 +2610,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "FEMININ",
     effectif: 36509,
@@ -2618,7 +2618,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "FEMININ",
     effectif: 68388,
@@ -2626,7 +2626,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2018-2019",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "FEMININ",
     effectif: 64245,
@@ -2890,7 +2890,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "FEMININ",
     effectif: 30821,
@@ -2898,7 +2898,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "FEMININ",
     effectif: 38446,
@@ -2906,7 +2906,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "FEMININ",
     effectif: 74097,
@@ -2914,7 +2914,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2019-2020",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "FEMININ",
     effectif: 72433,
@@ -3178,7 +3178,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 1",
     sexe: "FEMININ",
     effectif: 32350,
@@ -3186,7 +3186,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 2",
     sexe: "FEMININ",
     effectif: 40917,
@@ -3194,7 +3194,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 3",
     sexe: "FEMININ",
     effectif: 78235,
@@ -3202,7 +3202,7 @@ const RepartEleveEnseignantPardrenetData = [
   {
     periode: "2020-2021",
     statut: "PRIVE",
-    ville: "ABIDJAN ",
+    ville: "ABIDJAN",
     drenet: "ABIDJAN 4",
     sexe: "FEMININ",
     effectif: 78154,
