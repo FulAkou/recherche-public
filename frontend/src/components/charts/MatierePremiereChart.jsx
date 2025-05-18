@@ -58,10 +58,11 @@ const AnalyseSection = ({ chartData }) => {
   const firstYear = chartData[0];
   const productionTrend =
     ((lastYear.PRODUCTION - firstYear.PRODUCTION) / firstYear.PRODUCTION) * 100;
-  const consommationTrend =
+  const consommationTrend = (
     ((lastYear.CONSOMMATION - firstYear.CONSOMMATION) /
       firstYear.CONSOMMATION) *
-    100;
+    100
+  ).toFixed(1);
   const exportationTrend =
     ((lastYear.EXPORTATION - firstYear.EXPORTATION) / firstYear.EXPORTATION) *
     100;
@@ -141,7 +142,7 @@ const MatierePremiereChart = () => {
   return (
     <div>
       <h2 className="text-2xl font-bold text-gray-800 mb-6">
-        Comparaison Production / Consommation / Exportation
+        Comparaison Production / Consommation / Exportation (en tonnes)
       </h2>
 
       {loading && (
@@ -203,7 +204,7 @@ const MatierePremiereChart = () => {
           <div className="grid md:grid-rows-2 gap-8">
             <div className="h-[400px] w-full">
               <h3 className="text-lg font-semibold mb-2 text-center">
-                Évolution temporelle (Lignes)
+                Évolution temporelle
               </h3>
               <ResponsiveContainer width="100%" height="90%">
                 <LineChart data={chartData}>
@@ -229,14 +230,14 @@ const MatierePremiereChart = () => {
 
             <div className="h-[400px] w-full mt-4">
               <h3 className="text-lg font-semibold mb-2 text-center">
-                Répartition annuelle (Barres)
+                Évolution temporelle
               </h3>
               <ResponsiveContainer width="100%" height="90%">
                 <BarChart data={chartData}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
                   <XAxis dataKey="annee" />
                   <YAxis />
-                  <Tooltip />
+                  <Tooltip valueFormatter={(value) => `${value} tonnes`} />
                   <Legend />
                   <Bar
                     dataKey="PRODUCTION"

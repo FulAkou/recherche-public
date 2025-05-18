@@ -918,8 +918,8 @@ const EffectifParVilleChart = () => {
   const chartData = prepareComparisonData();
 
   return (
-    <div className="w-full bg-white rounded-xl shadow-lg p-6">
-      <h2 className="text-2xl font-bold text-gray-800 mb-2">
+    <div className="w-full ">
+      <h2 className="text-2xl font-bold text-gray-800 mb-6">
         Effectif par ville ({periode}) - {statut.toLowerCase()}
         {sexeCompare &&
           ` : ${sexe.toLowerCase()} vs ${sexeCompare.toLowerCase()}`}
@@ -1021,7 +1021,7 @@ const EffectifParVilleChart = () => {
             statut={statut}
           />
 
-          <p className="mt-4 text-sm text-gray-500 text-center">
+          <p className="flex justify-end mt-4 text-sm text-gray-500 text-center">
             Source : Données éducation {periode}
           </p>
         </>

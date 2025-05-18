@@ -620,7 +620,7 @@ const BilanProgrammeServiceGouvChart = () => {
   const { chartData, loading, error } = useBilanProgrammeData();
 
   return (
-    <div className="w-full bg-white rounded-xl shadow-lg p-6">
+    <div className="">
       <h2 className="text-2xl font-bold text-gray-800 mb-2">
         Répartition des actions par programme
       </h2>

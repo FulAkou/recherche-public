@@ -71,53 +71,57 @@ const StatsSummary = ({ chartData }) => {
   const total = totalPublic + totalPrive + totalCommunautaire;
 
   return (
-    <div className="bg-white shadow-lg rounded-xl p-6 space-y-4 mt-8">
-      <h2 className="text-xl font-bold text-center text-gray-800">
-        Statistiques globales des établissements scolaires
-      </h2>
+    <>
+      <div className="bg-white shadow-lg rounded-xl p-6 space-y-4 mt-8">
+        <h2 className="text-xl font-bold text-center text-gray-800">
+          Statistiques globales des établissements scolaires
+        </h2>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
-        <div className="bg-blue-50 p-4 rounded-lg">
-          <h3 className="text-sm font-medium text-gray-600">Total</h3>
-          <p className="text-2xl font-bold text-blue-600">{total}</p>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+          <div className="bg-blue-50 p-4 rounded-lg">
+            <h3 className="text-sm font-medium text-gray-600">Total</h3>
+            <p className="text-2xl font-bold text-blue-600">{total}</p>
+          </div>
+          <div className="bg-indigo-50 p-4 rounded-lg">
+            <h3 className="text-sm font-medium text-gray-600">Public</h3>
+            <p className="text-xl font-semibold text-indigo-600">
+              {totalPublic}
+            </p>
+          </div>
+          <div className="bg-green-50 p-4 rounded-lg">
+            <h3 className="text-sm font-medium text-gray-600">Privé</h3>
+            <p className="text-xl font-semibold text-green-600">{totalPrive}</p>
+          </div>
+          <div className="bg-yellow-50 p-4 rounded-lg">
+            <h3 className="text-sm font-medium text-gray-600">Communautaire</h3>
+            <p className="text-xl font-semibold text-yellow-600">
+              {totalCommunautaire}
+            </p>
+          </div>
         </div>
-        <div className="bg-indigo-50 p-4 rounded-lg">
-          <h3 className="text-sm font-medium text-gray-600">Public</h3>
-          <p className="text-xl font-semibold text-indigo-600">{totalPublic}</p>
-        </div>
-        <div className="bg-green-50 p-4 rounded-lg">
-          <h3 className="text-sm font-medium text-gray-600">Privé</h3>
-          <p className="text-xl font-semibold text-green-600">{totalPrive}</p>
-        </div>
-        <div className="bg-yellow-50 p-4 rounded-lg">
-          <h3 className="text-sm font-medium text-gray-600">Communautaire</h3>
-          <p className="text-xl font-semibold text-yellow-600">
-            {totalCommunautaire}
+
+        <div className="text-sm text-gray-600 mt-4">
+          <p className="mb-2">
+            <span className="font-semibold">Description du graphique :</span> Le
+            premier graphique présente la disponibilité des écoles par DREN
+            (Direction Régionale de l'Éducation Nationale) en distinguant trois
+            statuts :
+            <span className="text-indigo-600 font-medium"> Public</span>,
+            <span className="text-green-600 font-medium"> Privé</span> et
+            <span className="text-yellow-600 font-medium"> Communautaire</span>.
+          </p>
+          <p>
+            Le second graphique met en évidence la répartition globale des
+            écoles par statut, permettant une vision synthétique du paysage
+            scolaire couvert par la base de données.
           </p>
         </div>
       </div>
-
-      <div className="text-sm text-gray-600 mt-4">
-        <p className="mb-2">
-          <span className="font-semibold">Description du graphique :</span> Le
-          premier graphique présente la disponibilité des écoles par DREN
-          (Direction Régionale de l'Éducation Nationale) en distinguant trois
-          statuts :<span className="text-indigo-600 font-medium"> Public</span>,
-          <span className="text-green-600 font-medium"> Privé</span> et
-          <span className="text-yellow-600 font-medium"> Communautaire</span>.
-        </p>
-        <p>
-          Le second graphique met en évidence la répartition globale des écoles
-          par statut, permettant une vision synthétique du paysage scolaire
-          couvert par la base de données.
-        </p>
-      </div>
-
       <p className="text-xs text-right text-gray-400 italic">
         Source : Ministère de l'Enseignement Supérieur et de la Recherche
         Scientifique
       </p>
-    </div>
+    </>
   );
 };
 
@@ -161,7 +165,7 @@ const DisponibiliteInfraChart = () => {
 
       {!loading && !error && chartData.length > 0 && (
         <>
-          <div className="bg-white rounded-lg shadow-sm p-6">
+          <div className="">
             <h3 className="text-lg font-semibold mb-4 text-gray-800">
               Disponibilité des écoles par DREN et Statut
             </h3>
@@ -214,7 +218,7 @@ const DisponibiliteInfraChart = () => {
             </div>
           </div>
 
-          <div className="bg-white rounded-lg shadow-sm p-6">
+          <div className="">
             <h3 className="text-lg font-semibold mb-4 text-gray-800">
               Répartition globale des écoles par Statut
             </h3>

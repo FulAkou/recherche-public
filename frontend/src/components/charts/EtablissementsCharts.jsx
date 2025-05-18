@@ -299,7 +299,7 @@ const CommuneBarChart = ({ data }) => {
   ).sort((a, b) => b.count - a.count);
 
   return (
-    <div className="bg-white rounded-lg shadow-sm p-6 mb-8">
+    <div className="">
       <h2 className="text-xl font-bold text-gray-800 mb-4">
         Établissements par Commune
       </h2>
@@ -349,7 +349,7 @@ const StatutPieChart = ({ data }) => {
   const statutCounts = transformForChart(groupBy(data, "statut"), "statut");
 
   return (
-    <div className="bg-white rounded-lg shadow-sm p-6">
+    <div className="">
       <h2 className="text-xl font-bold text-gray-800 mb-4">
         Répartition par Statut
       </h2>
@@ -553,6 +553,10 @@ const EtablissementsCharts = () => {
           <CommuneBarChart data={chartData} />
           <StatutPieChart data={chartData} />
           <AnalyseSection data={chartData} />
+          <p className="flex justify-end mt-4 text-sm text-gray-500 text-center">
+            Source : Ministère de l'Enseignement Supérieur et de la Recherche
+            Scientifique
+          </p>
         </>
       )}
     </div>

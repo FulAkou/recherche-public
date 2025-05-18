@@ -164,6 +164,7 @@ const ProductionBarChart = ({ filteredData, sousCategories }) => {
               boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
               border: "none",
             }}
+            formatter={(value) => `${value} tonnes`}
           />
           <Legend wrapperStyle={{ paddingTop: "20px" }} />
           {sousCategories.map((cat, index) => (
@@ -205,7 +206,7 @@ const ProductionPoissonViandeChart = () => {
   return (
     <div>
       <h2 className="text-2xl font-bold text-gray-800 mb-6">
-        Évolution de la production par sous-catégorie
+        Évolution de la production par sous-catégorie (en tonnes)
       </h2>
 
       <YearSelectors
@@ -308,7 +309,7 @@ const ProductionPoissonViandeChart = () => {
             <p className="mt-2 text-gray-700">
               <span className="font-medium text-green-600">
                 ↑ Croissance marquée
-              </span>{" "}
+              </span>
               dans 60% des sous-catégories, avec un taux annuel moyen de +3.2%.
               Particulièrement visible dans la
               <span className="font-medium"> production aquacole</span>{" "}

@@ -51,7 +51,7 @@ const CovidCorrelationChart = () => {
   const chartData = prepareChartData();
 
   return (
-    <div className="w-full bg-white rounded-xl shadow-lg p-6">
+    <div className="w-full ">
       <h2 className="text-2xl font-bold text-gray-800 mb-2">
         Corrélations entre indicateurs COVID
       </h2>

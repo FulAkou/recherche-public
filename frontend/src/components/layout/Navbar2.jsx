@@ -7,7 +7,7 @@ const Navbar2 = ({
   const educationNavlinks = [
     { label: "Etablissements", key: "Etablissement" },
     {
-      label: "Bilan Programme Service Gouv",
+      label: "Bilan programme service gouv",
       key: "Bilan Programme Service Gouv",
     },
     { label: "Effectif des ecoles par ville", key: "Effectif des ecoles" },
@@ -18,21 +18,18 @@ const Navbar2 = ({
   ];
 
   const economieNavlinks = [
-    { label: "Production Poisson et Viande", key: "production" },
-    { label: "Matières Premières", key: "matiere" },
-    {
-      label: "Bilan Programme Service Gouv",
-      key: "Bilan Programme Service Gouv",
-    },
-    { label: "Consommation engraisse", key: "Consommation engraisse" },
+    { label: "Production poisson et viande", key: "production" },
+    { label: "Matières premières", key: "matiere" },
+
+    { label: "Consommation engrais", key: "Consommation engraisse" },
     { label: "Marché Internet", key: "internet" },
   ];
 
   const santeNavLinks = [
-    { label: "Hôpitaux Généraux", key: "Hopitaux Generaux" },
-    { label: "Covid-19 Stastiques", key: "Covid Correlation" },
-    { label: "Secteur Accident de Travail", key: "Accident de Travail" },
-    { label: "Secteur Accident de Route", key: "Accident de Route" },
+    { label: "Hôpitaux généraux", key: "Hopitaux Generaux" },
+    { label: "Covid-19 stastiques", key: "Covid Correlation" },
+    { label: "Secteur accident de travail", key: "Accident de Travail" },
+    { label: "Secteur accident de route", key: "Accident de Route" },
   ];
 
   const domaines = [
@@ -56,10 +53,10 @@ const Navbar2 = ({
               <button
                 key={btn.key}
                 onClick={() => setDomaineAcitf(btn.key)}
-                className={`px-4 py-2 rounded-lg transition  ${
+                className={`px-4 py-2 rounded-lg transition hover:bg-blue-300 hover:text-white  ${
                   domaineAcitf === btn.key
-                    ? "bg-blue-500 hover:bg-blue-400"
-                    : " bg-white text-blue-600 font-semibold"
+                    ? "bg-blue-500 hover:bg-blue-400 text-white "
+                    : " bg-white text-blue-600 font-semibold "
                 }`}
               >
                 {btn.label}

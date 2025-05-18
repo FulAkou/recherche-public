@@ -240,8 +240,8 @@ const SecteurAccidentsRouteChart = () => {
   const stats = calculateStats();
 
   return (
-    <div className="w-full bg-white rounded-xl shadow-lg p-6">
-      <h2 className="text-2xl font-bold text-gray-800 mb-2">
+    <div className="w-full">
+      <h2 className="text-2xl font-bold text-gray-800 mb-4">
         Évolution des accidents de la route
       </h2>
       <p className="text-gray-600 mb-6">
@@ -279,14 +279,12 @@ const SecteurAccidentsRouteChart = () => {
                         <XAxis
                           dataKey="Annee"
                           label={{
-                            value: "Année",
                             position: "bottom",
                             offset: 15,
                           }}
                         />
                         <YAxis
                           label={{
-                            value: "Nombre d'accidents",
                             angle: -90,
                             position: "left",
                             offset: 10,

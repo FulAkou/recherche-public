@@ -290,11 +290,11 @@ const SecteurAccidentsTravailChart = () => {
   const stats = calculateStats();
 
   return (
-    <div className="w-full bg-white rounded-xl shadow-lg p-6">
-      <h2 className="text-2xl font-bold text-gray-800 mb-2">
+    <div className="w-full">
+      <h2 className="text-2xl font-bold text-gray-800 mb-6">
         Accidents du travail par secteur d'activité
       </h2>
-      <p className="text-gray-600 mb-6">
+      <p className="text-gray-600 mb-4">
         Évolution du nombre d'accidents du travail par année et par secteur.
       </p>
 
@@ -313,7 +313,7 @@ const SecteurAccidentsTravailChart = () => {
       {!data.loading && !data.error && (
         <>
           <div className="mb-6">
-            <label className="block text-sm font-medium mb-1">
+            <label className="block text-sm font-medium mb-2">
               Secteur d'activité
             </label>
             <select
@@ -346,14 +346,12 @@ const SecteurAccidentsTravailChart = () => {
                         <XAxis
                           dataKey="annee"
                           label={{
-                            value: "Année",
                             position: "bottom",
                             offset: 15,
                           }}
                         />
                         <YAxis
                           label={{
-                            value: "Nombre d'accidents",
                             angle: -90,
                             position: "left",
                             offset: 10,

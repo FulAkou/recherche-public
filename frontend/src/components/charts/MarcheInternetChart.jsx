@@ -60,7 +60,7 @@ const InternetLineChart = ({ data }) => {
   const entreprises = Object.keys(data[0]).filter((key) => key !== "annee");
 
   return (
-    <div className="h-[400px] w-full">
+    <div className="h-[400px] w-full ">
       <h3 className="text-lg font-semibold mb-2 text-center">
         Évolution des abonnements par opérateur
       </h3>
@@ -70,7 +70,6 @@ const InternetLineChart = ({ data }) => {
           <XAxis dataKey="annee" />
           <YAxis
             label={{
-              value: "Nombre d'abonnés",
               angle: -90,
               position: "insideLeft",
             }}
@@ -138,17 +137,16 @@ const InternetBarChart = ({ data }) => {
   const entreprises = Object.keys(data[0]).filter((key) => key !== "annee");
 
   return (
-    <div className="h-[400px] w-full">
+    <div className="h-[400px] w-full ">
       <h3 className="text-lg font-semibold mb-2 text-center">
         Abonnés par opérateur et par année
       </h3>
-      <ResponsiveContainer width="100%" height="90%">
-        <BarChart data={data} margin={{ left: 40 }}>
+      <ResponsiveContainer width="99%" height="90%">
+        <BarChart data={data} margin={{ left: 20 }}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="annee" />
           <YAxis
             label={{
-              value: "Nombre d'abonnés",
               angle: -90,
               position: "insideLeft",
             }}
