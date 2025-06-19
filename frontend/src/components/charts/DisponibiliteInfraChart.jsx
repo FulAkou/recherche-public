@@ -1,3 +1,5 @@
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -128,11 +130,32 @@ const StatsSummary = ({ chartData }) => {
 const DisponibiliteInfraChart = () => {
   const { chartData, loading, error } = useDisponibiliteData();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart-content");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Disponibilité des Infrastructures Scolaires.pdf");
+    });
+  };
+
   return (
     <div className="space-y-8">
-      <h1 className="text-2xl font-bold text-gray-800">
-        Disponibilité des Infrastructures Scolaires
-      </h1>
+      <div className="flex justify-between items-center mb-6">
+        <h1 className="text-2xl font-bold text-gray-800">
+          Disponibilité des Infrastructures Scolaires
+        </h1>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
 
       {loading && (
         <div className="flex justify-center items-center h-64">
@@ -166,9 +189,11 @@ const DisponibiliteInfraChart = () => {
       {!loading && !error && chartData.length > 0 && (
         <>
           <div className="">
-            <h3 className="text-lg font-semibold mb-4 text-gray-800">
-              Disponibilité des écoles par DREN et Statut
-            </h3>
+            <div>
+              <h3 className="text-lg font-semibold mb-4 text-gray-800">
+                Disponibilité des écoles par DREN et Statut
+              </h3>
+            </div>
             <div className="h-[500px] w-full">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart

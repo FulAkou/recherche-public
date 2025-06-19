@@ -1,3 +1,5 @@
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -86,11 +88,32 @@ const ConsommationEngraisChart = () => {
     ...new Set(donneesEngrais.map((item) => item.indicateur)),
   ];
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart7");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Consommation d'engrais.pdf");
+    });
+  };
+
   return (
     <div className="">
-      <h2 className="text-2xl font-bold text-gray-800 mb-4">
-        Consommation d'engrais (kg/ha) par an
-      </h2>
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold text-gray-800 mb-4">
+          Consommation d'engrais (kg/ha) par an
+        </h2>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
 
       {loading && (
         <div className="flex justify-center items-center h-64">
@@ -159,7 +182,7 @@ const ConsommationEngraisChart = () => {
             </div>
           </div>
 
-          <div className="h-[500px] w-full">
+          <div className="h-[500px] w-full" id="chart7">
             {filteredData.length > 0 ? (
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart

@@ -453,6 +453,8 @@
 
 // export default BilanProgrammeServiceGouvChart;
 
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -619,11 +621,32 @@ const AnalyseSection = ({ data }) => {
 const BilanProgrammeServiceGouvChart = () => {
   const { chartData, loading, error } = useBilanProgrammeData();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart8");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Bilan des programmes.pdf");
+    });
+  };
+
   return (
     <div className="">
-      <h2 className="text-2xl font-bold text-gray-800 mb-2">
-        Répartition des actions par programme
-      </h2>
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold text-gray-800 mb-2">
+          Répartition des actions par programme
+        </h2>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
       <p className="text-gray-600 mb-6">
         Ce graphique illustre les principales interventions réalisées dans le
         cadre des programmes d'amélioration des conditions de vie des ménages.
@@ -662,7 +685,7 @@ const BilanProgrammeServiceGouvChart = () => {
         <>
           {chartData.length > 0 ? (
             <>
-              <div className="h-[600px] w-full">
+              <div className="h-[600px] w-full" id="chart8">
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart
                     data={chartData}

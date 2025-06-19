@@ -222,6 +222,8 @@
 
 // export default EtablissementsCharts;
 
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -303,7 +305,7 @@ const CommuneBarChart = ({ data }) => {
       <h2 className="text-xl font-bold text-gray-800 mb-4">
         Établissements par Commune
       </h2>
-      <div className="h-[500px] w-full">
+      <div className="h-[500px] w-full" id="chart3">
         <ResponsiveContainer width="100%" height="100%">
           <BarChart data={geoCounts}>
             <XAxis
@@ -513,11 +515,32 @@ const AnalyseSection = ({ data }) => {
 const EtablissementsCharts = () => {
   const { chartData, loading, error } = useEtablissementsData();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart3");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Comparaison Production / Consommation / Exportation.pdf");
+    });
+  };
+
   return (
     <div className="space-y-8">
-      <h1 className="text-2xl font-bold text-gray-800">
-        Répartition des Établissements Scolaires
-      </h1>
+      <div className="flex justify-between items-center mb-6">
+        <h1 className="text-2xl font-bold text-gray-800">
+          Répartition des Établissements Scolaires
+        </h1>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
 
       {loading && (
         <div className="flex justify-center items-center h-64">

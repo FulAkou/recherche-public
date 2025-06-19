@@ -621,6 +621,8 @@
 
 // export default EffectifParVilleChart;
 
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -917,14 +919,35 @@ const EffectifParVilleChart = () => {
 
   const chartData = prepareComparisonData();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart5");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Effectif par ville.pdf");
+    });
+  };
+
   return (
     <div className="w-full ">
-      <h2 className="text-2xl font-bold text-gray-800 mb-6">
-        Effectif par ville ({periode}) - {statut.toLowerCase()}
-        {sexeCompare &&
-          ` : ${sexe.toLowerCase()} vs ${sexeCompare.toLowerCase()}`}
-        {!sexeCompare && ` : ${sexe.toLowerCase()}`}
-      </h2>
+      <div className="flex justify-between mb-6">
+        <h2 className="text-2xl font-bold text-gray-800">
+          Effectif par ville ({periode}) - {statut.toLowerCase()}
+          {sexeCompare &&
+            ` : ${sexe.toLowerCase()} vs ${sexeCompare.toLowerCase()}`}
+          {!sexeCompare && ` : ${sexe.toLowerCase()}`}
+        </h2>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
 
       {loading && (
         <div className="flex justify-center items-center h-64">
@@ -966,7 +989,7 @@ const EffectifParVilleChart = () => {
             onFilterChange={handleFilterChange}
           />
 
-          <div className="h-[500px] w-full">
+          <div className="h-[500px] w-full" id="chart5">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
                 data={chartData}

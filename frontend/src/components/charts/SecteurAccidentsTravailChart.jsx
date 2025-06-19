@@ -164,6 +164,8 @@
 
 // export default SecteurAccidentsTravailChart;
 
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -289,11 +291,35 @@ const SecteurAccidentsTravailChart = () => {
 
   const stats = calculateStats();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById(
+      "chart-container",
+      "chart-container2"
+    );
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Evolution des accidents de la route.pdf");
+    });
+  };
+
   return (
     <div className="w-full">
-      <h2 className="text-2xl font-bold text-gray-800 mb-6">
-        Accidents du travail par secteur d'activité
-      </h2>
+      <div className="flex justify-between items-center">
+        <h2 className="text-2xl font-bold text-gray-800 mb-6">
+          Accidents du travail par secteur d'activité
+        </h2>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
       <p className="text-gray-600 mb-4">
         Évolution du nombre d'accidents du travail par année et par secteur.
       </p>
@@ -336,7 +362,7 @@ const SecteurAccidentsTravailChart = () => {
                   <h3 className="text-lg font-semibold text-gray-700 mb-4">
                     Données par année ({selectedSector})
                   </h3>
-                  <div className="h-[400px]">
+                  <div className="h-[400px]" id="chart-container">
                     <ResponsiveContainer width="100%" height="100%">
                       <BarChart
                         data={chartData}
@@ -386,7 +412,7 @@ const SecteurAccidentsTravailChart = () => {
                   <h3 className="text-lg font-semibold text-gray-700 mb-4">
                     Comparaison des secteurs
                   </h3>
-                  <div className="h-[400px]">
+                  <div className="h-[400px]" id="chart-container2">
                     <ResponsiveContainer width="100%" height="100%">
                       <LineChart
                         data={allSectorsData}

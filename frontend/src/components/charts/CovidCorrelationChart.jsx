@@ -1,3 +1,5 @@
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useState } from "react";
 import {
   CartesianGrid,
@@ -50,11 +52,32 @@ const CovidCorrelationChart = () => {
 
   const chartData = prepareChartData();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart-content");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Corrélations entre indicateurs COVID.pdf");
+    });
+  };
+
   return (
     <div className="w-full ">
-      <h2 className="text-2xl font-bold text-gray-800 mb-2">
-        Corrélations entre indicateurs COVID
-      </h2>
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold text-gray-800 mb-2">
+          Corrélations entre indicateurs COVID
+        </h2>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
 
       <div className="flex flex-wrap gap-4 mb-6">
         <div className="flex-1 min-w-[200px]">
@@ -116,48 +139,56 @@ const CovidCorrelationChart = () => {
       )}
 
       {!loading && !error && (
-        <div className="h-[500px] w-full">
-          <ResponsiveContainer width="100%" height="100%">
-            <ScatterChart margin={{ top: 20, right: 20, bottom: 60, left: 60 }}>
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis
-                dataKey={xVar}
-                name={VAR_OPTIONS.find((o) => o.value === xVar)?.label || xVar}
-                label={{
-                  value:
-                    VAR_OPTIONS.find((o) => o.value === xVar)?.label || xVar,
-                  position: "bottom",
-                }}
-              />
-              <YAxis
-                dataKey={yVar}
-                name={VAR_OPTIONS.find((o) => o.value === yVar)?.label || yVar}
-                label={{
-                  value:
-                    VAR_OPTIONS.find((o) => o.value === yVar)?.label || yVar,
-                  angle: -90,
-                  position: "left",
-                }}
-              />
-              <ZAxis dataKey={sizeVar} range={[50, 500]} name="Taille" />
-              <Tooltip
-                formatter={(value, name) => {
-                  if (name === "dateFormatted") return [value, "Date"];
-                  if (name === "paysOuRegion") return [value, "Pays"];
-                  return [Number(value).toLocaleString(), name];
-                }}
-              />
-              <Legend />
-              <Scatter name="Pays" data={chartData}>
-                {chartData.map((entry, index) => (
-                  <Cell
-                    key={`cell-${index}`}
-                    fill={COLORS[index % COLORS.length]}
-                  />
-                ))}
-              </Scatter>
-            </ScatterChart>
-          </ResponsiveContainer>
+        <div id="chart-content">
+          <div className="h-[500px] w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <ScatterChart
+                margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
+              >
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis
+                  dataKey={xVar}
+                  name={
+                    VAR_OPTIONS.find((o) => o.value === xVar)?.label || xVar
+                  }
+                  label={{
+                    value:
+                      VAR_OPTIONS.find((o) => o.value === xVar)?.label || xVar,
+                    position: "bottom",
+                  }}
+                />
+                <YAxis
+                  dataKey={yVar}
+                  name={
+                    VAR_OPTIONS.find((o) => o.value === yVar)?.label || yVar
+                  }
+                  label={{
+                    value:
+                      VAR_OPTIONS.find((o) => o.value === yVar)?.label || yVar,
+                    angle: -90,
+                    position: "left",
+                  }}
+                />
+                <ZAxis dataKey={sizeVar} range={[50, 500]} name="Taille" />
+                <Tooltip
+                  formatter={(value, name) => {
+                    if (name === "dateFormatted") return [value, "Date"];
+                    if (name === "paysOuRegion") return [value, "Pays"];
+                    return [Number(value).toLocaleString(), name];
+                  }}
+                />
+                <Legend />
+                <Scatter name="Pays" data={chartData}>
+                  {chartData.map((entry, index) => (
+                    <Cell
+                      key={`cell-${index}`}
+                      fill={COLORS[index % COLORS.length]}
+                    />
+                  ))}
+                </Scatter>
+              </ScatterChart>
+            </ResponsiveContainer>
+          </div>
         </div>
       )}
 

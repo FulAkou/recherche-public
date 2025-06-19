@@ -1,149 +1,151 @@
-// import { useEffect, useState } from "react";
-// import {
-//   Bar,
-//   BarChart,
-//   CartesianGrid,
-//   Cell,
-//   Legend,
-//   ResponsiveContainer,
-//   Tooltip,
-//   XAxis,
-//   YAxis,
-// } from "recharts";
-// import { fetchAccidentsRouteData } from "../../services/api";
+// // import { useEffect, useState } from "react";
+// // import {
+// //   Bar,
+// //   BarChart,
+// //   CartesianGrid,
+// //   Cell,
+// //   Legend,
+// //   ResponsiveContainer,
+// //   Tooltip,
+// //   XAxis,
+// //   YAxis,
+// // } from "recharts";
+// // import { fetchAccidentsRouteData } from "../../services/api";
 
-// const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#8884d8"];
+// // const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#8884d8"];
 
-// const SecteurAccidentsRouteChart = () => {
-//   const [data, setData] = useState({
-//     rawData: [],
-//     loading: true,
-//     error: null,
-//   });
+// // const SecteurAccidentsRouteChart = () => {
+// //   const [data, setData] = useState({
+// //     rawData: [],
+// //     loading: true,
+// //     error: null,
+// //   });
 
-//   useEffect(() => {
-//     const loadData = async () => {
-//       try {
-//         setData((prev) => ({ ...prev, loading: true }));
+// //   useEffect(() => {
+// //     const loadData = async () => {
+// //       try {
+// //         setData((prev) => ({ ...prev, loading: true }));
 
-//         // Ajout de await ici
-//         const responseData = await fetchAccidentsRouteData();
+// //         // Ajout de await ici
+// //         const responseData = await fetchAccidentsRouteData();
 
-//         setData({
-//           rawData: responseData || [], // Protection contre les données nulles
-//           loading: false,
-//           error: null,
-//         });
-//       } catch (err) {
-//         setData({
-//           rawData: [],
-//           loading: false,
-//           error: err.message || "Erreur lors du chargement des données",
-//         });
-//       }
-//     };
+// //         setData({
+// //           rawData: responseData || [], // Protection contre les données nulles
+// //           loading: false,
+// //           error: null,
+// //         });
+// //       } catch (err) {
+// //         setData({
+// //           rawData: [],
+// //           loading: false,
+// //           error: err.message || "Erreur lors du chargement des données",
+// //         });
+// //       }
+// //     };
 
-//     loadData();
-//   }, []);
+// //     loadData();
+// //   }, []);
 
-//   const prepareChartData = () => {
-//     return (data.rawData || [])
-//       .map((item) => ({
-//         ...item,
-//         Effectif: Number(item.Effectif) || 0,
-//         Annee: Number(item.Annee) || 0, // Conversion de l'année en nombre
-//       }))
-//       .sort((a, b) => a.Annee - b.Annee);
-//   };
+// //   const prepareChartData = () => {
+// //     return (data.rawData || [])
+// //       .map((item) => ({
+// //         ...item,
+// //         Effectif: Number(item.Effectif) || 0,
+// //         Annee: Number(item.Annee) || 0, // Conversion de l'année en nombre
+// //       }))
+// //       .sort((a, b) => a.Annee - b.Annee);
+// //   };
 
-//   const chartData = prepareChartData();
+// //   const chartData = prepareChartData();
 
-//   // Debug: afficher les données dans la console
-//   console.log("Données préparées:", chartData);
+// //   // Debug: afficher les données dans la console
+// //   console.log("Données préparées:", chartData);
 
-//   return (
-//     <div className="w-full bg-white rounded-xl shadow-lg p-6">
-//       <h2 className="text-2xl font-bold text-gray-800 mb-2">
-//         Évolution des accidents de la route
-//       </h2>
-//       <p className="text-gray-600 mb-6">
-//         Nombre d'accidents de la route par année (2000-2020)
-//       </p>
+// //   return (
+// //     <div className="w-full bg-white rounded-xl shadow-lg p-6">
+// //       <h2 className="text-2xl font-bold text-gray-800 mb-2">
+// //         Évolution des accidents de la route
+// //       </h2>
+// //       <p className="text-gray-600 mb-6">
+// //         Nombre d'accidents de la route par année (2000-2020)
+// //       </p>
 
-//       {data.loading && (
-//         <div className="flex justify-center items-center h-64">
-//           <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
-//         </div>
-//       )}
+// //       {data.loading && (
+// //         <div className="flex justify-center items-center h-64">
+// //           <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
+// //         </div>
+// //       )}
 
-//       {data.error && (
-//         <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
-//           <p className="text-sm text-red-700">Erreur : {data.error}</p>
-//         </div>
-//       )}
+// //       {data.error && (
+// //         <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
+// //           <p className="text-sm text-red-700">Erreur : {data.error}</p>
+// //         </div>
+// //       )}
 
-//       {!data.loading && !data.error && (
-//         <>
-//           {chartData.length > 0 ? (
-//             <div className="h-[500px] w-full">
-//               <ResponsiveContainer width="100%" height="100%">
-//                 <BarChart
-//                   data={chartData}
-//                   margin={{ top: 20, right: 30, left: 40, bottom: 60 }}
-//                 >
-//                   <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
-//                   <XAxis
-//                     dataKey="Annee"
-//                     label={{ value: "Année", position: "bottom", offset: 15 }}
-//                   />
-//                   <YAxis
-//                     label={{
-//                       value: "Nombre d'accidents",
-//                       angle: -90,
-//                       position: "left",
-//                       offset: 10,
-//                     }}
-//                   />
-//                   <Tooltip
-//                     formatter={(value) => [`${value} accidents`, "Nombre"]}
-//                     labelFormatter={(label) => `Année: ${label}`}
-//                   />
-//                   <Legend />
-//                   <Bar
-//                     dataKey="Effectif"
-//                     name="Accidents de la route"
-//                     barSize={30}
-//                   >
-//                     {chartData.map((entry, index) => (
-//                       <Cell
-//                         key={`cell-${index}`}
-//                         fill={COLORS[index % COLORS.length]}
-//                       />
-//                     ))}
-//                   </Bar>
-//                 </BarChart>
-//               </ResponsiveContainer>
-//             </div>
-//           ) : (
-//             <div className="flex items-center justify-center h-[300px] bg-gray-50 rounded-lg">
-//               <p className="text-gray-500">
-//                 Aucune donnée disponible pour la période sélectionnée
-//               </p>
-//             </div>
-//           )}
-//         </>
-//       )}
+// //       {!data.loading && !data.error && (
+// //         <>
+// //           {chartData.length > 0 ? (
+// //             <div className="h-[500px] w-full">
+// //               <ResponsiveContainer width="100%" height="100%">
+// //                 <BarChart
+// //                   data={chartData}
+// //                   margin={{ top: 20, right: 30, left: 40, bottom: 60 }}
+// //                 >
+// //                   <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
+// //                   <XAxis
+// //                     dataKey="Annee"
+// //                     label={{ value: "Année", position: "bottom", offset: 15 }}
+// //                   />
+// //                   <YAxis
+// //                     label={{
+// //                       value: "Nombre d'accidents",
+// //                       angle: -90,
+// //                       position: "left",
+// //                       offset: 10,
+// //                     }}
+// //                   />
+// //                   <Tooltip
+// //                     formatter={(value) => [`${value} accidents`, "Nombre"]}
+// //                     labelFormatter={(label) => `Année: ${label}`}
+// //                   />
+// //                   <Legend />
+// //                   <Bar
+// //                     dataKey="Effectif"
+// //                     name="Accidents de la route"
+// //                     barSize={30}
+// //                   >
+// //                     {chartData.map((entry, index) => (
+// //                       <Cell
+// //                         key={`cell-${index}`}
+// //                         fill={COLORS[index % COLORS.length]}
+// //                       />
+// //                     ))}
+// //                   </Bar>
+// //                 </BarChart>
+// //               </ResponsiveContainer>
+// //             </div>
+// //           ) : (
+// //             <div className="flex items-center justify-center h-[300px] bg-gray-50 rounded-lg">
+// //               <p className="text-gray-500">
+// //                 Aucune donnée disponible pour la période sélectionnée
+// //               </p>
+// //             </div>
+// //           )}
+// //         </>
+// //       )}
 
-//       <p className="mt-6 text-sm text-gray-400 text-right">
-//         Source: Statistiques des accidents de la route -{" "}
-//         {new Date().getFullYear()}
-//       </p>
-//     </div>
-//   );
-// };
+// //       <p className="mt-6 text-sm text-gray-400 text-right">
+// //         Source: Statistiques des accidents de la route -{" "}
+// //         {new Date().getFullYear()}
+// //       </p>
+// //     </div>
+// //   );
+// // };
 
-// export default SecteurAccidentsRouteChart;
+// // export default SecteurAccidentsRouteChart;
 
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -239,11 +241,32 @@ const SecteurAccidentsRouteChart = () => {
 
   const stats = calculateStats();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart-container");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Evolution des accidents de la route.pdf");
+    });
+  };
+
   return (
     <div className="w-full">
-      <h2 className="text-2xl font-bold text-gray-800 mb-4">
-        Évolution des accidents de la route
-      </h2>
+      <div className="flex justify-between items-center">
+        <h2 className="text-2xl font-bold text-gray-800 mb-4">
+          Évolution des accidents de la route
+        </h2>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
       <p className="text-gray-600 mb-6">
         Nombre d'accidents de la route par année (2000-2020)
       </p>
@@ -269,87 +292,98 @@ const SecteurAccidentsRouteChart = () => {
                   <h3 className="text-lg font-semibold text-gray-700 mb-4">
                     Données annuelles
                   </h3>
-                  <div className="h-[400px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart
-                        data={chartData}
-                        margin={{ top: 20, right: 30, left: 40, bottom: 60 }}
-                      >
-                        <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
-                        <XAxis
-                          dataKey="Annee"
-                          label={{
-                            position: "bottom",
-                            offset: 15,
-                          }}
-                        />
-                        <YAxis
-                          label={{
-                            angle: -90,
-                            position: "left",
-                            offset: 10,
-                          }}
-                        />
-                        <Tooltip
-                          formatter={(value) => [
-                            `${value} accidents`,
-                            "Nombre",
-                          ]}
-                          labelFormatter={(label) => `Année: ${label}`}
-                        />
-                        <Legend />
-                        <Bar
-                          dataKey="Effectif"
-                          name="Accidents de la route"
-                          barSize={30}
+                  <div id="chart-container">
+                    <div className="h-[400px]">
+                      <ResponsiveContainer width="100%" height="100%">
+                        <BarChart
+                          data={chartData}
+                          margin={{ top: 20, right: 30, left: 40, bottom: 60 }}
                         >
-                          {chartData.map((entry, index) => (
-                            <Cell
-                              key={`cell-${index}`}
-                              fill={COLORS[index % COLORS.length]}
-                            />
-                          ))}
-                        </Bar>
-                      </BarChart>
-                    </ResponsiveContainer>
+                          <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
+                          <XAxis
+                            dataKey="Annee"
+                            label={{
+                              position: "bottom",
+                              offset: 15,
+                            }}
+                          />
+                          <YAxis
+                            label={{
+                              angle: -90,
+                              position: "left",
+                              offset: 10,
+                            }}
+                          />
+                          <Tooltip
+                            formatter={(value) => [
+                              `${value} accidents`,
+                              "Nombre",
+                            ]}
+                            labelFormatter={(label) => `Année: ${label}`}
+                          />
+                          <Legend />
+                          <Bar
+                            dataKey="Effectif"
+                            name="Accidents de la route"
+                            barSize={30}
+                          >
+                            {chartData.map((entry, index) => (
+                              <Cell
+                                key={`cell-${index}`}
+                                fill={COLORS[index % COLORS.length]}
+                              />
+                            ))}
+                          </Bar>
+                        </BarChart>
+                      </ResponsiveContainer>
+                    </div>
                   </div>
-                </div>
 
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-700 mb-4">
-                    Tendance d'évolution
-                  </h3>
-                  <div className="h-[400px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <LineChart
-                        data={chartData}
-                        margin={{ top: 20, right: 30, left: 40, bottom: 60 }}
-                      >
-                        <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
-                        <XAxis dataKey="Annee" />
-                        <YAxis />
-                        <Tooltip
-                          formatter={(value) => [
-                            `${value} accidents`,
-                            "Nombre",
-                          ]}
-                          labelFormatter={(label) => `Année: ${label}`}
-                        />
-                        <Legend />
-                        <Line
-                          type="monotone"
-                          dataKey="Effectif"
-                          stroke="#8884d8"
-                          strokeWidth={2}
-                          name="Accidents de la route"
-                          dot={{ r: 4 }}
-                        />
-                      </LineChart>
-                    </ResponsiveContainer>
+                  <div>
+                    <h3 className="text-lg font-semibold text-gray-700 mb-4">
+                      Tendance d'évolution
+                    </h3>
+                    <div>
+                      <div className="h-[400px]">
+                        <ResponsiveContainer width="100%" height="100%">
+                          <LineChart
+                            data={chartData}
+                            margin={{
+                              top: 20,
+                              right: 30,
+                              left: 40,
+                              bottom: 60,
+                            }}
+                          >
+                            <CartesianGrid
+                              strokeDasharray="3 3"
+                              stroke="#eee"
+                            />
+                            <XAxis dataKey="Annee" />
+                            <YAxis />
+                            <Tooltip
+                              formatter={(value) => [
+                                `${value} accidents`,
+                                "Nombre",
+                              ]}
+                              labelFormatter={(label) => `Année: ${label}`}
+                            />
+                            <Legend />
+                            <Line
+                              type="monotone"
+                              dataKey="Effectif"
+                              stroke="#8884d8"
+                              strokeWidth={2}
+                              name="Accidents de la route"
+                              dot={{ r: 4 }}
+                            />
+                          </LineChart>
+                        </ResponsiveContainer>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
-
               {stats && (
                 <div className="bg-gray-50 rounded-xl p-6">
                   <h3 className="text-xl font-bold text-gray-800 mb-4">

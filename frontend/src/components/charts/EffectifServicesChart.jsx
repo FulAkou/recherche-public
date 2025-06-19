@@ -552,6 +552,8 @@
 
 // export default EffectifServicesChart;
 
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -872,11 +874,34 @@ const EffectifServicesChart = () => {
   const years = [...new Set(rawData.map((item) => item.annee))].sort();
   const regions = [...new Set(rawData.map((item) => item.regions))];
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart4");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Effectifs par service médical.pdf");
+    });
+  };
+
   return (
     <div className="w-full">
-      <h2 className="text-2xl font-bold text-gray-800 mb-2">
-        Effectifs par service médical
-      </h2>
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold text-gray-800 mb-2">
+          Effectifs par service médical
+        </h2>
+
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
+
       <p className="text-gray-600 mb-6">
         Répartition des effectifs médicaux par district et par type de service.
       </p>
@@ -946,7 +971,7 @@ const EffectifServicesChart = () => {
 
           {chartData.length > 0 ? (
             <>
-              <div className="h-[500px] w-full">
+              <div className="h-[500px] w-full" id="chart4">
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart
                     data={chartData}

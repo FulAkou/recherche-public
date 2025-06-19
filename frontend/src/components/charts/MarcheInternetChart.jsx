@@ -1,3 +1,5 @@
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
 import { useEffect, useState } from "react";
 import {
   Bar,
@@ -274,11 +276,32 @@ const AnalyseSection = ({ data }) => {
 const MarcheInternetChart = () => {
   const { internetFixeData, loading, error } = useMarcheInternetData();
 
+  const exportChartAsPDF = () => {
+    const chartDiv = document.getElementById("chart1");
+    html2canvas(chartDiv).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("p", "mm", "a4");
+      const imgProps = pdf.getImageProperties(imgData);
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save("Marché des Abonnements Internet Fixe.pdf");
+    });
+  };
+
   return (
     <div>
-      <h2 className="text-2xl font-bold text-gray-800 mb-6">
-        Marché des Abonnements Internet Fixe
-      </h2>
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold text-gray-800 mb-6">
+          Marché des Abonnements Internet Fixe
+        </h2>
+        <button
+          onClick={exportChartAsPDF}
+          className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition cursor-pointer"
+        >
+          Exporter en PDF
+        </button>
+      </div>
 
       {loading && (
         <div className="flex justify-center items-center h-64">
@@ -311,7 +334,7 @@ const MarcheInternetChart = () => {
 
       {!loading && !error && internetFixeData.length > 0 && (
         <>
-          <div className="grid md:grid-rows-2 gap-8">
+          <div className="grid md:grid-rows-2 gap-8" id="chart1">
             <div className="mb-6">
               <InternetLineChart data={internetFixeData} />
             </div>
