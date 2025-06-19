@@ -1,4 +1,4 @@
-import { BACKEND_API_URL } from "./constant";
+import { BACKEND_API_URL } from "./constant.js";
 
 export const authService = {
   async login(email, password) {
